@@ -1,1 +1,41 @@
-Ly8gRkFRIOKAlCB0aGUgcXVlc3Rpb25zIHRoZSBjb21tdW5pdHkgYXNrZWQgb3ZlciBhbmQgb3ZlciAoRmVi4oCTT2N0IDIwMjYsIGZyb20gdGhlCi8vIGdyb3VwIGV4cG9ydHMpLiBFYWNoIGFuc3dlciBpcyB0aGUgYmVzdCBhbnN3ZXIgYWxyZWFkeSBnaXZlbiBpbiBjaGF0LCB3cml0dGVuCi8vIGRvd24gb25jZS4gU291cmNlcyBhcmUgbmFtZWQgc28gbWVtYmVycyBrbm93IHdobyB0byBhc2sgZm9yIHRoZSBmdWxsIHN0b3J5LgoKZXhwb3J0IGNvbnN0IGZhcXMgPSBbCiAgewogICAgcTogJ0RvIEkgbmVlZCBhIG5vdGFyaXplZCBsZWFzZT8nLAogICAgYTogJ0ZvciB0aGUgMTItbW9udGggdmlzYS1mcmVlIHN0YXksIG5vIOKAlCBhbmQgYXNraW5nIGZvciBvbmUgdXN1YWxseSBSQUlTRVMgeW91ciByZW50LCBiZWNhdXNlIHRoZSBsYW5kbG9yZCB0aGVuIGhhcyB0byBwYXkgdGF4IG9uIGl0IGFuZCBwYXNzZXMgdGhhdCBjb3N0IHRvIHlvdS4gU3RheSBpbiBhbiBBaXJibmIgd2hpbGUgeW91IHNlYXJjaCwgYW5kIGNoZWNrIGl0IGluIHBlcnNvbjogbWVtYmVycyBoYXZlIHJ1biBpbnRvIG1vbGQgYW5kIHBsdW1iaW5nIHByb2JsZW1zIGluICJnb29kIiBsaXN0aW5ncy4nLAogICAgc291cmNlOiAnTGEgU2hhd24sIDI1IEZlYiAyMDI2JywKICB9LAogIHsKICAgIHE6ICdIb3cgZG9lcyB0aGUgbGFuZGxvcmQgZWxlY3RyaWNpdHkgc2NhbSB3b3JrPycsCiAgICBhOiAnVGhlIGtub3duIHBhdHRlcm46IHlvdSBhZ3JlZSBlbGVjdHJpY2l0eSBpcyBpbmNsdWRlZCwgdGhlbiBhdCBtb3ZlLW91dCB0aGUgbGFuZGxvcmQgY2xhaW1zIHlvdSB1c2VkIGEgaHVnZSBhbW91bnQgaW4geW91ciBsYXN0IGRheXMgKG9uZSBtZW1iZXIgd2FzIGNoYXJnZWQgYSBjbGFpbWVkICQxMDAgZm9yIDggZGF5cykgYW5kIGRlbWFuZHMgZXh0cmEuIEdldCAiZWxlY3RyaWNpdHkgaW5jbHVkZWQiIGluIHdyaXRpbmcsIHBob3RvZ3JhcGggdGhlIG1ldGVyIG9uIGRheSBvbmUgYW5kIGRheSBsYXN0LCBhbmQgYXNrIHRoZSBncm91cCBhYm91dCBhbnkgbGFuZGxvcmQgYmVmb3JlIHlvdSBzaWduIOKAlCBtZW1iZXJzIHdhcm4gZWFjaCBvdGhlciBoZXJlIGZpcnN0LicsCiAgICBzb3VyY2U6ICdNZW1iZXIgd2FybmluZyArIEphcmVkLCBBcHIgMjAyNicsCiAgfSwKICB7CiAgICBxOiAnV2hlcmUgY2FuIEkgZ2V0IGJyYWlkcywgbG9jcywgb3IgYSBiYXJiZXI/JywKICAgIGE6ICdCcmFpZHM6IHRoZSBBZnJpY2FuIEJyYWlkIFNob3AgLyBCZWF1dHkgQ2VudGVyIGluIFNoa29kw6tyIChzaGUgd2lsbCB0cmF2ZWwgdG8gVmxvcmEpIOKAlCBzZWUgdGhlIERpcmVjdG9yeS4gQSBicmFpZGVyIGJhc2VkIGluIFZsb3JhIGpvaW5lZCB0aGUgY29tbXVuaXR5IGluIE9jdCAyMDI2OyBhc2sgaW4gdGhlIEhhaXIgZ3JvdXAgKCJHZXQgeW91ciBOYXBzIFdhY2tlZCEhISIpIGZvciBoZXIgbGF0ZXN0IGNvbnRhY3QuIEJhcmJlcjogRXJnaSAoSW5zdGFncmFtIGluIHRoZSBEaXJlY3RvcnkpIGZvciBUaXJhbmEvVmxvcmEuIExvYyByZXR3aXN0cyBhcmUgdGhlIGhhcmRlc3QgZmluZCDigJQgYXNrIGluIHRoZSBIYWlyIGdyb3VwIGJlZm9yZSB5b3UgdHJhdmVsLicsCiAgICBzb3VyY2U6ICdIYWlyIGdyb3VwLCBGZWLigJNPY3QgMjAyNicsCiAgfSwKICB7CiAgICBxOiAnSGFpciBwcm9kdWN0cyBhcmUgY3JhenkgZXhwZW5zaXZlIGhlcmUg4oCUIGhvdyBkbyBtZW1iZXJzIGdldCB0aGVtPycsCiAgICBhOiAnVGhlIG51bWJlcnMgbWVtYmVycyBoaXQ6IOKCrDEwMCBmb3IgMyBwYWNrcyBvZiBYcHJlc3Npb24gYnJhaWRpbmcgaGFpciBpbiBUaXJhbmEgdnMgJDUuOTkgYSBwYWNrIGluIHRoZSBVUywgYW5kIGN1c3RvbXMgY2hhcmdlcyBvbiBvcmRlcnMgb3ZlciBhYm91dCDigqwyMC4gV2hhdCB3b3JrczogKDEpIEFtYXpvbiBJbnRlcm5hdGlvbmFsIOKAlCBvbmUgbWVtYmVyIHBhaWQgJDEzMiB0b3RhbCBmb3IgYW4gb3JkZXIgdGhhdCB3b3VsZCBoYXZlIGNvc3QgJDM2MyByb3V0ZWQgdGhyb3VnaCBmYW1pbHkgYXQgaG9tZSwgd2l0aCBubyBjdXN0b21zIGhhc3NsZTsgKDIpIFRlbXUg4oCUIG5vIGN1c3RvbXMgZmVlcyBidXQgc2xvdzsgKDMpIHNob3BwaW5nIHJ1bnMgdG8gR3JlZWNlIG9yIEJ1bGdhcmlhOyAoNCkgbWVtYmVycyB0cmF2ZWxsaW5nIHRvIExvbmRvbi9VUyBzb21ldGltZXMgdGFrZSBwcm9kdWN0IG9yZGVycyBmb3IgdGhlIGdyb3VwIOKAlCB3YXRjaCB0aGUgSGFpciBncm91cC4nLAogICAgc291cmNlOiAnSGFpciBncm91cCwgOSBKdW4gMjAyNicsCiAgfSwKICB7CiAgICBxOiAnV2hpY2ggZGVudGlzdCBvciBjbGluaWMgZG8gbWVtYmVycyBhY3R1YWxseSB1c2U/JywKICAgIGE6ICdEZW50aXN0IGluIFZsb3JhOiBTbWlsZSBDYXJlIChKYXJlZFwncykuIEFsc28gc2hhcmVkIGluIHRoZSBncm91cDogUHJlbWl1bSBDbGluaWMgYW5kIEdheWEgQW1lcmljYW4gRGVudGFsIChmcmVlIGZpcnN0IGNvbnN1bHRhdGlvbikuIEZvciBjaGVjay11cHMgYW5kIHBoeXNpY2FscywgSmFyZWRcJ3MgZ28tdG8gaXMgQUJDIENsaW5pYyBpbiBUaXJhbmEg4oCUIGEgbm9ybWFsIHBoeXNpY2FsIGlzIGFyb3VuZCDigqw4MC4gQWxsIGluIHRoZSBEaXJlY3RvcnkuJywKICAgIHNvdXJjZTogJ01haW4gZ3JvdXAsIEFwcuKAk0p1biAyMDI2JywKICB9LAogIHsKICAgIHE6ICdIb3cgZG8gSSBnZXQgZnJvbSBUaXJhbmEgQWlycG9ydCB0byBWbG9yYT8nLAogICAgYTogJ0Jvb2sgYSB0YXhpL2RyaXZlciDigJQgbWVtYmVycyB1c2UgVGF4aSBMYW5kaW5nIChEaXJlY3RvcnkpIGFuZCBKYXJlZFwncyBlbGVjdHJpYyB0YXhpIGRyaXZlciwgYW5kIG1lbWJlcnMgcmVndWxhcmx5IHNwbGl0IHNoYXJlZCB0YXhpcywgc28gYXNrIGluIHRoZSBncm91cCBiZWZvcmUgeW91ciBkYXRlOiBzb21lYm9keSBtYXkgYWxyZWFkeSBiZSByaWRpbmcuIFRoZSBkcml2ZSBpcyByb3VnaGx5IDLigJMzIGhvdXJzLicsCiAgICBzb3VyY2U6ICdNYWluIGdyb3VwLCBGZWLigJNBcHIgMjAyNicsCiAgfSwKICB7CiAgICBxOiAnTW92aW5nIGhlcmUg4oCUIHNob3VsZCBJIHNoaXAgbXkgc3R1ZmYgb3IgZmx5IHdpdGggaXQ/JywKICAgIGE6ICdGbHkgd2l0aCBpdCwgYW5kIGJyaW5nIGEgdGhpcmQgbGVzcyB0aGFuIHlvdSB0aGluay4gTWVtYmVycyB3aG8gY29tcGFyZWQgYm90aDogYW4gJDgwMCBleGNlc3MtbHVnZ2FnZSBmZWUgb24gdGhlIHBsYW5lIHdhcyBmYXIgY2hlYXBlciBhbmQgZmFzdGVyIHRoYW4gc2hpcHBpbmcsIHdoaWNoIGFsc28gbWVhbnMgY3VzdG9tcyBkZWxheXMgYW5kIGZlZXMgaW4gQWxiYW5pYS4gUmVkdWNlIGZpcnN0LCBmbHkgc2Vjb25kLicsCiAgICBzb3VyY2U6ICdNZW1iZXIgZXhwZXJpZW5jZSwgMTcgRmViIDIwMjYnLAogIH0sCl0K
+// FAQ — the questions the community asked over and over (Feb–Oct 2026, from the
+// group exports). Each answer is the best answer already given in chat, written
+// down once. Sources are named so members know who to ask for the full story.
+
+export const faqs = [
+  {
+    q: 'Do I need a notarized lease?',
+    a: 'For the 12-month visa-free stay, no — and asking for one usually RAISES your rent, because the landlord then has to pay tax on it and passes that cost to you. Stay in an Airbnb while you search, and check it in person: members have run into mold and plumbing problems in "good" listings.',
+    source: 'La Shawn, 25 Feb 2026',
+  },
+  {
+    q: 'How does the landlord electricity scam work?',
+    a: 'The known pattern: you agree electricity is included, then at move-out the landlord claims you used a huge amount in your last days (one member was charged a claimed $100 for 8 days) and demands extra. Get "electricity included" in writing, photograph the meter on day one and day last, and ask the group about any landlord before you sign — members warn each other here first.',
+    source: 'Member warning + Jared, Apr 2026',
+  },
+  {
+    q: 'Where can I get braids, locs, or a barber?',
+    a: 'Braids: the African Braid Shop / Beauty Center in Shkodër (she will travel to Vlora) — see the Directory. A braider based in Vlora joined the community in Oct 2026; ask in the Hair group ("Get your Naps Wacked!!!") for her latest contact. Barber: Ergi (Instagram in the Directory) for Tirana/Vlora. Loc retwists are the hardest find — ask in the Hair group before you travel.',
+    source: 'Hair group, Feb–Oct 2026',
+  },
+  {
+    q: 'Hair products are crazy expensive here — how do members get them?',
+    a: 'The numbers members hit: €100 for 3 packs of Xpression braiding hair in Tirana vs $5.99 a pack in the US, and customs charges on orders over about €20. What works: (1) Amazon International — one member paid $132 total for an order that would have cost $363 routed through family at home, with no customs hassle; (2) Temu — no customs fees but slow; (3) shopping runs to Greece or Bulgaria; (4) members travelling to London/US sometimes take product orders for the group — watch the Hair group.',
+    source: 'Hair group, 9 Jun 2026',
+  },
+  {
+    q: 'Which dentist or clinic do members actually use?',
+    a: 'Dentist in Vlora: Smile Care (Jared\'s). Also shared in the group: Premium Clinic and Gaya American Dental (free first consultation). For check-ups and physicals, Jared\'s go-to is ABC Clinic in Tirana — a normal physical is around €80. All in the Directory.',
+    source: 'Main group, Apr–Jun 2026',
+  },
+  {
+    q: 'How do I get from Tirana Airport to Vlora?',
+    a: 'Book a taxi/driver — members use Taxi Landing (Directory) and Jared\'s electric taxi driver, and members regularly split shared taxis, so ask in the group before your date: somebody may already be riding. The drive is roughly 2–3 hours.',
+    source: 'Main group, Feb–Apr 2026',
+  },
+  {
+    q: 'Moving here — should I ship my stuff or fly with it?',
+    a: 'Fly with it, and bring a third less than you think. Members who compared both: an $800 excess-luggage fee on the plane was far cheaper and faster than shipping, which also means customs delays and fees in Albania. Reduce first, fly second.',
+    source: 'Member experience, 17 Feb 2026',
+  },
+]

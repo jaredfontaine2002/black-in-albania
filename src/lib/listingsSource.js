@@ -1,1 +1,76 @@
-aW1wb3J0IHsgbGlzdGluZ3MgYXMgc2VlZExpc3RpbmdzIH0gZnJvbSAnLi4vZGF0YS9saXN0aW5ncycKaW1wb3J0IHsgR09PR0xFX1NIRUVUX0NTVl9VUkwgfSBmcm9tICcuLi9jb25maWcnCgovLyBEYXRhIGxheWVyOiB0aGUgZGlyZWN0b3J5IGNhbiBiZSBiYWNrZWQgYnkgYSBmcmVlIEdvb2dsZSBTaGVldCAoc2VlIFJFQURNRSkKLy8gb3IgYnkgdGhlIGJ1bmRsZWQgc2VlZCBkYXRhLiBFaXRoZXIgd2F5LCBvbmx5IGBhcHByb3ZlZGAgbGlzdGluZ3MgcmVuZGVyIOKAlAovLyB0aGF0IGlzIHRoZSBhcHByb3ZhbCBnYXRlIGZyb20gdGhlIFBSRCwgZW5mb3JjZWQgaW4gY29kZSwgbm90IGJ5IGNvbnZlbnRpb24uCgpleHBvcnQgZnVuY3Rpb24gdmlzaWJsZUxpc3RpbmdzKGxpc3QpIHsKICByZXR1cm4gbGlzdC5maWx0ZXIoKGwpID0+IGwuYXBwcm92ZWQgIT09IGZhbHNlICYmIFN0cmluZyhsLmFwcHJvdmVkKSAhPT0gJ2ZhbHNlJykKfQoKLy8gTWluaW1hbCBDU1YgcGFyc2VyIChoYW5kbGVzIHF1b3RlZCBmaWVsZHMgd2l0aCBjb21tYXMgLyBxdW90ZXMgaW5zaWRlKS4KZXhwb3J0IGZ1bmN0aW9uIHBhcnNlQ3N2KHRleHQpIHsKICBjb25zdCByb3dzID0gW10KICBsZXQgcm93ID0gW10KICBsZXQgZmllbGQgPSAnJwogIGxldCBpblF1b3RlcyA9IGZhbHNlCiAgZm9yIChsZXQgaSA9IDA7IGkgPCB0ZXh0Lmxlbmd0aDsgaSsrKSB7CiAgICBjb25zdCBjID0gdGV4dFtpXQogICAgaWYgKGluUXVvdGVzKSB7CiAgICAgIGlmIChjID09PSAnIicpIHsKICAgICAgICBpZiAodGV4dFtpICsgMV0gPT09ICciJykgeyBmaWVsZCArPSAnIic7IGkrKyB9IGVsc2UgeyBpblF1b3RlcyA9IGZhbHNlIH0KICAgICAgfSBlbHNlIGZpZWxkICs9IGMKICAgIH0gZWxzZSBpZiAoYyA9PT0gJyInKSBpblF1b3RlcyA9IHRydWUKICAgIGVsc2UgaWYgKGMgPT09ICcsJykgeyByb3cucHVzaChmaWVsZCk7IGZpZWxkID0gJycgfQogICAgZWxzZSBpZiAoYyA9PT0gJ1xuJykgeyByb3cucHVzaChmaWVsZCk7IHJvd3MucHVzaChyb3cpOyByb3cgPSBbXTsgZmllbGQgPSAnJyB9CiAgICBlbHNlIGlmIChjICE9PSAnXHInKSBmaWVsZCArPSBjCiAgfQogIGlmIChmaWVsZC5sZW5ndGggfHwgcm93Lmxlbmd0aCkgeyByb3cucHVzaChmaWVsZCk7IHJvd3MucHVzaChyb3cpIH0KICByZXR1cm4gcm93cy5maWx0ZXIoKHIpID0+IHIuc29tZSgoY2VsbCkgPT4gY2VsbC50cmltKCkgIT09ICcnKSkKfQoKZnVuY3Rpb24gcm93VG9MaXN0aW5nKGhlYWRlcnMsIGNlbGxzKSB7CiAgY29uc3QgZ2V0ID0gKG5hbWUpID0+IHsKICAgIGNvbnN0IGlkeCA9IGhlYWRlcnMuaW5kZXhPZihuYW1lKQogICAgcmV0dXJuIGlkeCA+PSAwID8gKGNlbGxzW2lkeF0gfHwgJycpLnRyaW0oKSA6ICcnCiAgfQogIHJldHVybiB7CiAgICBpZDogZ2V0KCdpZCcpIHx8IGdldCgnbmFtZScpLnRvTG93ZXJDYXNlKCkucmVwbGFjZSgvW15hLXowLTldKy9nLCAnLScpLAogICAgbmFtZTogZ2V0KCduYW1lJyksCiAgICBjYXRlZ29yeTogZ2V0KCdjYXRlZ29yeScpLAogICAgY2l0eTogZ2V0KCdjaXR5JyksCiAgICBkZXNjcmlwdGlvbjogZ2V0KCdkZXNjcmlwdGlvbicpLAogICAgcHJpY2VSYW5nZTogZ2V0KCdwcmljZXJhbmdlJyksCiAgICB3aGF0c2FwcDogZ2V0KCd3aGF0c2FwcCcpLnJlcGxhY2UoL1teMC05XS9nLCAnJyksCiAgICB1cmw6IGdldCgndXJsJyksCiAgICB2b3VjaGVkQnk6IGdldCgndm91Y2hlZGJ5JyksCiAgICB2ZXJpZmllZDogZ2V0KCd2ZXJpZmllZCcpLAogICAgc3BvdGxpZ2h0OiBbJ3RydWUnLCAneWVzJywgJzEnXS5pbmNsdWRlcyhnZXQoJ3Nwb3RsaWdodCcpLnRvTG93ZXJDYXNlKCkpLAogICAgYXBwcm92ZWQ6ICFbJ2ZhbHNlJywgJ25vJywgJzAnLCAncGVuZGluZycsICcnXS5pbmNsdWRlcyhnZXQoJ2FwcHJvdmVkJykudG9Mb3dlckNhc2UoKSksCiAgfQp9CgpleHBvcnQgYXN5bmMgZnVuY3Rpb24gbG9hZExpc3RpbmdzKCkgewogIGlmICghR09PR0xFX1NIRUVUX0NTVl9VUkwpIHJldHVybiB7IGxpc3RpbmdzOiB2aXNpYmxlTGlzdGluZ3Moc2VlZExpc3RpbmdzKSwgc291cmNlOiAnc2VlZCcgfQogIHRyeSB7CiAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChHT09HTEVfU0hFRVRfQ1NWX1VSTCkKICAgIGlmICghcmVzLm9rKSB0aHJvdyBuZXcgRXJyb3IoYFNoZWV0IGZldGNoICR7cmVzLnN0YXR1c31gKQogICAgY29uc3Qgcm93cyA9IHBhcnNlQ3N2KGF3YWl0IHJlcy50ZXh0KCkpCiAgICBjb25zdCBoZWFkZXJzID0gcm93c1swXS5tYXAoKGgpID0+IGgudHJpbSgpLnRvTG93ZXJDYXNlKCkpCiAgICBjb25zdCBwYXJzZWQgPSByb3dzLnNsaWNlKDEpLm1hcCgoY2VsbHMpID0+IHJvd1RvTGlzdGluZyhoZWFkZXJzLCBjZWxscykpLmZpbHRlcigobCkgPT4gbC5uYW1lKQogICAgaWYgKCFwYXJzZWQubGVuZ3RoKSB0aHJvdyBuZXcgRXJyb3IoJ1NoZWV0IHJldHVybmVkIG5vIGxpc3RpbmdzJykKICAgIHJldHVybiB7IGxpc3RpbmdzOiB2aXNpYmxlTGlzdGluZ3MocGFyc2VkKSwgc291cmNlOiAnZ29vZ2xlLXNoZWV0JyB9CiAgfSBjYXRjaCAoZXJyKSB7CiAgICBjb25zb2xlLndhcm4oJ0dvb2dsZSBTaGVldCBiYWNrZW5kIHVuYXZhaWxhYmxlLCBmYWxsaW5nIGJhY2sgdG8gc2VlZCBkYXRhOicsIGVycikKICAgIHJldHVybiB7IGxpc3RpbmdzOiB2aXNpYmxlTGlzdGluZ3Moc2VlZExpc3RpbmdzKSwgc291cmNlOiAnc2VlZC1mYWxsYmFjaycgfQogIH0KfQoKZXhwb3J0IGZ1bmN0aW9uIHdhTGluayhsaXN0aW5nKSB7CiAgaWYgKCFsaXN0aW5nLndoYXRzYXBwKSByZXR1cm4gbnVsbAogIGNvbnN0IHRleHQgPSBlbmNvZGVVUklDb21wb25lbnQoCiAgICBgSGkgJHtsaXN0aW5nLm5hbWV9LCBJIGZvdW5kIHlvdSBpbiB0aGUgQmxhY2sgaW4gQWxiYW5pYSBEaXJlY3RvcnkuIEknbSBsb29raW5nIGZvciAke2xpc3RpbmcuY2F0ZWdvcnl9IGluICR7bGlzdGluZy5jaXR5fS5gCiAgKQogIHJldHVybiBgaHR0cHM6Ly93YS5tZS8ke2xpc3Rpbmcud2hhdHNhcHB9P3RleHQ9JHt0ZXh0fWAKfQo=
+import { listings as seedListings } from '../data/listings'
+import { GOOGLE_SHEET_CSV_URL } from '../config'
+
+// Data layer: the directory can be backed by a free Google Sheet (see README)
+// or by the bundled seed data. Either way, only `approved` listings render —
+// that is the approval gate from the PRD, enforced in code, not by convention.
+
+export function visibleListings(list) {
+  return list.filter((l) => l.approved !== false && String(l.approved) !== 'false')
+}
+
+// Minimal CSV parser (handles quoted fields with commas / quotes inside).
+export function parseCsv(text) {
+  const rows = []
+  let row = []
+  let field = ''
+  let inQuotes = false
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i]
+    if (inQuotes) {
+      if (c === '"') {
+        if (text[i + 1] === '"') { field += '"'; i++ } else { inQuotes = false }
+      } else field += c
+    } else if (c === '"') inQuotes = true
+    else if (c === ',') { row.push(field); field = '' }
+    else if (c === '\n') { row.push(field); rows.push(row); row = []; field = '' }
+    else if (c !== '\r') field += c
+  }
+  if (field.length || row.length) { row.push(field); rows.push(row) }
+  return rows.filter((r) => r.some((cell) => cell.trim() !== ''))
+}
+
+function rowToListing(headers, cells) {
+  const get = (name) => {
+    const idx = headers.indexOf(name)
+    return idx >= 0 ? (cells[idx] || '').trim() : ''
+  }
+  return {
+    id: get('id') || get('name').toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+    name: get('name'),
+    category: get('category'),
+    city: get('city'),
+    description: get('description'),
+    priceRange: get('pricerange'),
+    whatsapp: get('whatsapp').replace(/[^0-9]/g, ''),
+    url: get('url'),
+    vouchedBy: get('vouchedby'),
+    verified: get('verified'),
+    spotlight: ['true', 'yes', '1'].includes(get('spotlight').toLowerCase()),
+    approved: !['false', 'no', '0', 'pending', ''].includes(get('approved').toLowerCase()),
+  }
+}
+
+export async function loadListings() {
+  if (!GOOGLE_SHEET_CSV_URL) return { listings: visibleListings(seedListings), source: 'seed' }
+  try {
+    const res = await fetch(GOOGLE_SHEET_CSV_URL)
+    if (!res.ok) throw new Error(`Sheet fetch ${res.status}`)
+    const rows = parseCsv(await res.text())
+    const headers = rows[0].map((h) => h.trim().toLowerCase())
+    const parsed = rows.slice(1).map((cells) => rowToListing(headers, cells)).filter((l) => l.name)
+    if (!parsed.length) throw new Error('Sheet returned no listings')
+    return { listings: visibleListings(parsed), source: 'google-sheet' }
+  } catch (err) {
+    console.warn('Google Sheet backend unavailable, falling back to seed data:', err)
+    return { listings: visibleListings(seedListings), source: 'seed-fallback' }
+  }
+}
+
+export function waLink(listing) {
+  if (!listing.whatsapp) return null
+  const text = encodeURIComponent(
+    `Hi ${listing.name}, I found you in the Black in Albania Directory. I'm looking for ${listing.category} in ${listing.city}.`
+  )
+  return `https://wa.me/${listing.whatsapp}?text=${text}`
+}

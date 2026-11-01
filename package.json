@@ -1,1 +1,23 @@
-ewogICJuYW1lIjogImJsYWNrLWluLWFsYmFuaWEtYXBwIiwKICAicHJpdmF0ZSI6IHRydWUsCiAgInZlcnNpb24iOiAiMC4wLjAiLAogICJ0eXBlIjogIm1vZHVsZSIsCiAgInNjcmlwdHMiOiB7CiAgICAiZGV2IjogInZpdGUiLAogICAgImJ1aWxkIjogInZpdGUgYnVpbGQiLAogICAgImxpbnQiOiAib3hsaW50IiwKICAgICJwcmV2aWV3IjogInZpdGUgcHJldmlldyIKICB9LAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAicmVhY3QiOiAiXjE5LjMuMSIsCiAgICAicmVhY3QtZG9tIjogIl4xOS4zLjEiCiAgfSwKICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkB0eXBlcy9yZWFjdCI6ICJeMTkuMy4wIiwKICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xOS4zLjAiLAogICAgIkB2aXRlanMvcGx1Z2luLXJlYWN0IjogIl42LjEuMiIsCiAgICAib3hsaW50IjogIl4xLjg5LjAiLAogICAgInZpdGUiOiAiXjguMy41IgogIH0KfQo=
+{
+  "name": "black-in-albania-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "oxlint": "^1.89.0",
+    "vite": "^8.3.5"
+  }
+}

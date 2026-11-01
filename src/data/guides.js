@@ -1,1 +1,145 @@
-Ly8gR3VpZGVzIOKAlCBidWlsdCBpbiB0aGUgb3JkZXIgSmFyZWQgc2V0IG9uIDIwMjYtMTEtMDE6IDEpIEJ1cywgMikgSG91c2luZywgMykgSGFpci4KLy8gQnVzIHRpbWVzIHdlcmUgY2hlY2tlZCAxIE5vdiAyMDI2IGFnYWluc3QgdGhlIFRpcmFuYSBBaXJwb3J0IGJ1cyBsaXN0aW5nIGFuZAovLyBHamlyYWZhIFRyYXZlbCdzIGxpdmUgYm9va2luZyBwYWdlcy4gQWxiYW5pYW4gYnVzIHRpbWVzIENIQU5HRSAoc2Vhc29uLAovLyBvcGVyYXRvciwgc3RhdGlvbiBtb3ZlcykgYW5kIHNvdXJjZXMgcmVndWxhcmx5IGRpc2FncmVlIOKAlCBldmVyeSByb3V0ZSBjYXJyaWVzCi8vIGEgImNoZWNrZWQiIGRhdGUgYW5kIHRoZSBndWlkZSB0ZWxscyB1c2VycyB0byByZS1jb25maXJtIHRoZSBkYXkgYmVmb3JlLgovLyBQcmljZXMgYXJlIHdoYXQgdGhlIHNvdXJjZXMgc2hvd2VkIG9uIHRoZSBjaGVjayBkYXRlLCBpbiBFVVIgYXMgbGlzdGVkIHRoZXJlLgoKZXhwb3J0IGNvbnN0IEJVU19DSEVDS0VEID0gJ0NoZWNrZWQgMSBOb3YgMjAyNiDigJQgcmUtY29uZmlybSB5b3VyIGJ1cyB0aGUgZGF5IGJlZm9yZSB5b3UgdHJhdmVsJwoKZXhwb3J0IGNvbnN0IGJ1c1JvdXRlcyA9IFsKICB7CiAgICByb3V0ZTogJ1RpcmFuYSBBaXJwb3J0IChUSUEpIOKGkiBWbG9yYScsCiAgICBvcGVyYXRvcjogJ0hlcm1lcyBBZXJvcG9ydCcsCiAgICB0aW1lczogJzAzOjMwIMK3IDExOjAwIMK3IDEyOjMwIMK3IDE0OjAwIMK3IDE2OjAwIMK3IDE4OjAwIMK3IDIwOjAwIMK3IDIyOjE1IMK3IDAwOjQ1JywKICAgIGR1cmF0aW9uOiAnfjMgaG91cnMnLAogICAgcHJpY2U6ICcxLDIwMCBsZWsgKOKJiCDigqwxMuKAkzEzKScsCiAgICBub3RlczoKICAgICAgJ0RpcmVjdCDigJQgeW91IGRvIE5PVCBuZWVkIHRvIGdvIGludG8gVGlyYW5hIGZpcnN0LiBFeGl0IEFycml2YWxzLCB0dXJuIGxlZnQgdG8gdGhlIGJ1cyBzdG9wcy4gQm9va2luZyBzaXRlcyBsaXN0IGZld2VyIGRlcGFydHVyZXMgdGhhbiB0aGUgYWlycG9ydCwgd2hpY2ggaXMgZXhhY3RseSB3aHkgeW91IGNvbmZpcm0gdGhlIGRheSBiZWZvcmUuJywKICB9LAogIHsKICAgIHJvdXRlOiAnVmxvcmEg4oaSIFRpcmFuYSBBaXJwb3J0IChUSUEpJywKICAgIG9wZXJhdG9yOiAnSGVybWVzIEFlcm9wb3J0JywKICAgIHRpbWVzOiAnMDE6MzAgwrcgMDM6MzAgwrcgMDY6MDAgwrcgMDc6MDAgwrcgMDk6MDAgwrcgMTE6MDAgwrcgMTM6MDAgwrcgMTU6MDAgwrcgMjA6MDAnLAogICAgZHVyYXRpb246ICd+MyBob3VycycsCiAgICBwcmljZTogJzEsMjAwIGxlayAo4omIIOKCrDEy4oCTMTUpJywKICAgIG5vdGVzOgogICAgICAnRGVwYXJ0cyBWbG9yYSBTdGF0aW9uLiBGb3IgYSBtb3JuaW5nIGZsaWdodCwgdGhlIDAxOjMwIGFuZCAwMzozMCBidXNlcyBleGlzdCBmb3IgYSByZWFzb24g4oCUIHRha2Ugb25lIGVhcmxpZXIgdGhhbiBmZWVscyBuZWNlc3NhcnkuIENvbnRhY3Qgb24gdGhlIGFpcnBvcnQgbGlzdGluZzogKzM1NSA2NyA2MDkgNzU0MiwgcmVzZXJ2YXRpb25AaGVybWVzYWVyb3BvcnQuY29tLicsCiAgfSwKICB7CiAgICByb3V0ZTogJ1Zsb3JhIOKGlCBUaXJhbmEgKGNpdHkpJywKICAgIG9wZXJhdG9yOiAnSW50ZXJidXMgVmxvcmEgwrcgRWwtQWxiYSBUcmFucycsCiAgICB0aW1lczogJ1JvdWdobHkgZXZlcnkgMzAgbWluLCB+MDU6MDDigJMxNzozMCAoMjHigJMyNyBidXNlcy9kYXkpJywKICAgIGR1cmF0aW9uOiAnMmggMjBtIOKAkyAyaCA1MG0nLAogICAgcHJpY2U6ICfigqw4JywKICAgIG5vdGVzOgogICAgICAnVmxvcmEgc2lkZTogdGhlIGJ1cyBzdGF0aW9uIG9uIFJydWdhIERlbW9rcmFjaWEgKGl0IG1vdmVkIOKAlCBvbGRlciBibG9ncyBwb2ludCBhdCB0aGUgSW5kZXBlbmRlbmNlIE1vbnVtZW50LCB0aGF0IGlzIG91dCBvZiBkYXRlKS4gVGlyYW5hIHNpZGU6IFNvdXRoICYgTm9ydGggVGVybWluYWwgKFRlcm1pbmFsaSBpIEp1Z3V0IGRoZSBWZXJpdXQpLicsCiAgfSwKICB7CiAgICByb3V0ZTogJ1Zsb3JhIOKGkiBTYXJhbmRhJywKICAgIG9wZXJhdG9yOiAnVHJhbnNidXMgU2FyYW5kYSDCtyBCb3Jha3UgwrcgU2FyYW5kYSBUcmFuc3BvcnQnLAogICAgdGltZXM6ICcwNzowMCDCtyAxMTozMCDCtyAxMzowMCDCtyAxNDozMCDCtyAxNjowMCAoNy9kYXkgb24gYm9va2luZyBzaXRlcyknLAogICAgZHVyYXRpb246ICcyaCAyMG0g4oCTIDRoIOKAlCB0aGUgcm91dGUgZGVjaWRlcyBpdCcsCiAgICBwcmljZTogJ+KCrDE1JywKICAgIG5vdGVzOgogICAgICAnVHdvIHdheXMgc291dGg6IENPQVNUQUwgb3ZlciBMbG9nYXJhIHRocm91Z2ggRGjDq3JtaSBhbmQgSGltYXLDqyAoc2xvd2VyLCBzdHVubmluZykgYW5kIElOTEFORCB0aHJvdWdoIFRlcGVsZW7DqyBhbmQgR2ppcm9rYXN0w6tyLiBBc2sgd2hpY2ggb25lIHlvdXIgYnVzIHRha2VzIGJlZm9yZSB5b3UgcGF5IOKAlCBpZiB5b3UgZ2V0IGNhcnNpY2ssIGlubGFuZCBpcyBraW5kZXIgdGhhbiB0aGUgTGxvZ2FyYSBzd2l0Y2hiYWNrcy4nLAogIH0sCiAgewogICAgcm91dGU6ICdHamlyb2thc3TDq3Ig4oaUIFNhcmFuZGEnLAogICAgb3BlcmF0b3I6ICdBcmdqaXJvIMK3IFRyYW5zIEJ1dHJpbnRpJywKICAgIHRpbWVzOiAnMDg6MDAgwrcgMTA6MDAgwrcgMTM6NDUgKGFib3V0IDQvZGF5KScsCiAgICBkdXJhdGlvbjogJzFoIOKAkyAxaCAxNW0gb24gYm9va2luZyBzaXRlcyAoYWxsb3cgdXAgdG8gMmgpJywKICAgIHByaWNlOiAn4oKsNicsCiAgICBub3RlczoKICAgICAgJ01hbnkgVGlyYW5hL1Zsb3Jh4oCTU2FyYW5kYSBidXNlcyBhbHNvIHBhc3MgdGhyb3VnaCBHamlyb2thc3TDq3Ig4oCUIGNvbmZpcm0gdGhlIHN0b3Agd2l0aCB0aGUgZHJpdmVyIHdoZW4geW91IGJvYXJkLCBub3Qgd2hlbiB5b3UgYXJyaXZlLicsCiAgfSwKICB7CiAgICByb3V0ZTogJ1Zsb3JhIOKGkiBHamlyb2thc3TDq3InLAogICAgb3BlcmF0b3I6ICdWaWEgaW5sYW5kIFNhcmFuZGEgYnVzZXMnLAogICAgdGltZXM6ICdObyByZWxpYWJsZSBwdWJsaXNoZWQgdGltZXRhYmxlIGZvdW5kJywKICAgIGR1cmF0aW9uOiAnQXNrIGF0IFZsb3JhIFN0YXRpb24nLAogICAgcHJpY2U6ICdBc2sgYXQgdGhlIHN0YXRpb24nLAogICAgbm90ZXM6CiAgICAgICdIb25lc3QgZ2FwOiBib29raW5nIHNpdGVzIGRvIG5vdCBwdWJsaXNoIHRoaXMgbGVnIGNsZWFubHkuIFRoZSBpbmxhbmQgVmxvcmHihpJTYXJhbmRhIGJ1c2VzIHBhc3MgR2ppcm9rYXN0w6tyIOKAlCBnbyB0byBWbG9yYSBTdGF0aW9uIHRoZSBkYXkgYmVmb3JlLCBhc2sgZm9yIHRoZSBHamlyb2thc3TDq3Igc3RvcCwgYW5kIHdyaXRlIHRoZSB0aW1lIGRvd24uIElmIGEgbWVtYmVyIHJpZGVzIGl0LCB0ZWxsIGFuIGFkbWluIGFuZCB0aGlzIGd1aWRlIGdldHMgdGhlIHJlYWwgdGltZS4nLAogIH0sCl0KCmV4cG9ydCBjb25zdCBidXNIb3dJdFdvcmtzID0gWwogICdDYXNoIGlzIGtpbmc6IHBheSB0aGUgZHJpdmVyIG9yIGNvbmR1Y3RvciBpbiBsZWsuIENhcmRzIGFyZSB0aGUgZXhjZXB0aW9uLCBub3QgdGhlIHJ1bGUuJywKICAnQXJyaXZlIDIw4oCTMzAgbWludXRlcyBlYXJseS4gT24gbWFueSByb3V0ZXMgdGhlcmUgaXMgbm8gdGlja2V0IG9mZmljZSB3b3JraW5nIGFoZWFkIG9mIHRpbWUg4oCUIHlvdXIgYmFnIG9uIGEgc2VhdCBpcyB5b3VyIHJlc2VydmF0aW9uLicsCiAgJ1NjaGVkdWxlcyBjaGFuZ2Ugd2l0aCB0aGUgc2Vhc29uIGFuZCBzdGF0aW9ucyBNT1ZFIChWbG9yYeKAmXMgbW92ZWQgdG8gUnJ1Z2EgRGVtb2tyYWNpYSkuIEFueSB0aW1lIG9sZGVyIHRoYW4gdGhpcyBzZWFzb24gaXMgYSBydW1vdXIuJywKICAnQ2hlY2sgbGl2ZSBiZWZvcmUgeW91IHRyYXZlbDogR2ppcmFmYSBUcmF2ZWwgKHRyYXZlbC5namlyYWZhLmNvbSkgbGlzdHMgYm9va2FibGUgZGVwYXJ0dXJlcywgYW5kIEFsYmFuaWHigJlzIG9mZmljaWFsIGVUcmFuc3BvcnQgcGxhdGZvcm0gaXMgdGhlIGdvdmVybm1lbnQgc291cmNlLicsCiAgJ1NjcmVlbnNob3QgeW91ciBkZXN0aW5hdGlvbiBpbiBBbGJhbmlhbiDigJQgVmxvcsOrLCBUaXJhbsOrLCBTYXJhbmTDqywgR2ppcm9rYXN0w6tyLCBTaGtvZMOrciDigJQgYW5kIHNob3cgdGhlIGRyaXZlci4gUHJvbnVuY2lhdGlvbiB3aWxsIG5vdCBzYXZlIHlvdTsgdGhlIHNjcmVlbnNob3Qgd2lsbC4nLAogICdHb2luZyB0byB0aGUgYWlycG9ydCB3aXRoIGJpZyBsdWdnYWdlIG9yIGEgZ3JvdXA/IFByaWNlIGEgc2hhcmVkIHRheGkgaW4gdGhlIFdoYXRzQXBwIGdyb3VwIGZpcnN0IChzZWUgRHJpdmVycyBpbiB0aGUgRGlyZWN0b3J5KSDigJQgdGhlIGJ1cyB3aW5zIG9uIHByaWNlLCB0aGUgdGF4aSB3aW5zIG9uIHNhbml0eS4nLApdCgpleHBvcnQgY29uc3QgaG91c2luZ0d1aWRlID0gewogIHRpdGxlOiAnSG91c2luZyBHdWlkZSDigJQgcmVudCB3aXRob3V0IGdldHRpbmcgcGxheWVkJywKICBpbnRybzoKICAgICdCdWlsdCBmcm9tIHdoYXQgbWVtYmVycyBpbiB0aGlzIGNvbW11bml0eSBhY3R1YWxseSBsaXZlZDogdGhlIGdvb2QgYWR2aWNlIGFuZCB0aGUgc2NhbSB0aGF0IGFscmVhZHkgaGFwcGVuZWQgdG8gb25lIG9mIHVzLicsCiAgc2VjdGlvbnM6IFsKICAgIHsKICAgICAgaDogJ1RoZSBzZWFyY2ggKHdoYXQgd29ya3MpJywKICAgICAgcG9pbnRzOiBbCiAgICAgICAgJ0xhbmQgaW4gYW4gQWlyYm5iIGZpcnN0IGFuZCBzZWFyY2ggb24gZm9vdCDigJQgYSAiZ29vZCIgbGlzdGluZyBjYW4gaGlkZSBtb2xkIGFuZCBwbHVtYmluZyBwcm9ibGVtcywgYW5kIG1lbWJlcnMgaGF2ZSBiZWVuIGJ1cm5lZCBieSBwaG90b3MuJywKICAgICAgICAnTW9zdCBtZW1iZXJzIGluIFZsb3JhIGxpdmUgYWxvbmcgdGhlIEx1bmdvbWFyZSBvciBqdXN0IGJlaGluZCBpdC4gV2FsayB0aGUgc3RyZWV0IHlvdSB3b3VsZCBsaXZlIG9uIGF0IG5pZ2h0IGJlZm9yZSB5b3Ugc2lnbiBhbnl0aGluZy4nLAogICAgICAgICdBc2sgaW4gdGhlIFdoYXRzQXBwIGdyb3VwIEJFRk9SRSB5b3Ugc2lnbjogbWVtYmVycyB3YXJuIGVhY2ggb3RoZXIgYWJvdXQgc3BlY2lmaWMgbGFuZGxvcmRzIGFuZCBidWlsZGluZ3MgaGVyZSBmaXJzdC4nLAogICAgICBdLAogICAgfSwKICAgIHsKICAgICAgaDogJ1RoZSBsZWFzZSB0cmFwJywKICAgICAgcG9pbnRzOiBbCiAgICAgICAgJ0ZvciB0aGUgMTItbW9udGggdmlzYS1mcmVlIHN0YXkgeW91IGRvIE5PVCBuZWVkIGEgbm90YXJpemVkIGxlYXNlLiBMYW5kbG9yZHMgd2hvIHJlcXVpcmUgb25lIHVzdWFsbHkgcmFpc2UgdGhlIHJlbnQsIGJlY2F1c2Ugbm90YXJpemluZyBtZWFucyB0aGV5IHBheSB0YXggb24gaXQgYW5kIHBhc3MgdGhhdCBjb3N0IHRvIHlvdSAoTGEgU2hhd24sIEZlYiAyMDI2KS4nLAogICAgICAgICdObyBjb250cmFjdCBhdCBhbGwgaXMgdGhlIG90aGVyIGV4dHJlbWUg4oCUIG9uZSBtZW1iZXJcJ3MgbGFuZGxvcmQgZXhwbG9pdGVkIGV4YWN0bHkgdGhhdCBhdCBtb3ZlLW91dC4gR2V0IGF0IGxlYXN0IGEgc2ltcGxlIHNpZ25lZCBhZ3JlZW1lbnQsIGluIHdyaXRpbmcsIGluIGEgbGFuZ3VhZ2UgeW91IHJlYWQuJywKICAgICAgXSwKICAgIH0sCiAgICB7CiAgICAgIGg6ICdUaGUgZWxlY3RyaWNpdHkgc2NhbSAoaXQgYWxyZWFkeSBoYXBwZW5lZCBoZXJlKScsCiAgICAgIHBvaW50czogWwogICAgICAgICdUaGUgcGF0dGVybjogcmVudCBhZ3JlZWQgd2l0aCAiZWxlY3RyaWNpdHkgaW5jbHVkZWQiLCB0aGVuIGF0IG1vdmUtb3V0IHRoZSBsYW5kbG9yZCBjbGFpbXMgeW91ciBsYXN0IGZldyBkYXlzIHVzZWQgYW4gaW1wb3NzaWJsZSBhbW91bnQgKG9uZSBtZW1iZXI6IGEgY2xhaW1lZCAkMTAwIGZvciA4IGRheXMpIGFuZCBkZW1hbmRzIGV4dHJhIGNhc2guJywKICAgICAgICAnRGVmZW5jZTogImVsZWN0cmljaXR5IGluY2x1ZGVkIiBJTiBXUklUSU5HLCBwaG90b2dyYXBoIHRoZSBtZXRlciBvbiBkYXkgb25lIGFuZCBvbiB5b3VyIGxhc3QgZGF5LCBhbmQga2VlcCB5b3VyIGNoYXQgd2l0aCB0aGUgbGFuZGxvcmQg4oCUIHNjcmVlbnNob3RzIGFyZSBldmlkZW5jZS4nLAogICAgICBdLAogICAgfSwKICAgIHsKICAgICAgaDogJ01vdmUtaW4gY2hlY2tsaXN0JywKICAgICAgcG9pbnRzOiBbCiAgICAgICAgJ01ldGVyIHBob3RvIChlbGVjdHJpYyArIHdhdGVyKSwgcGhvdG9zIG9mIGV2ZXJ5IGV4aXN0aW5nIHNjcmF0Y2gvZGFtYWdlLCBzZW50IHRvIHRoZSBsYW5kbG9yZCB0aGUgc2FtZSBkYXkuJywKICAgICAgICAnQWdyZWUgaW4gd3JpdGluZzogcmVudCwgd2hhdCBpcyBpbmNsdWRlZCwgbm90aWNlIHBlcmlvZCwgZGVwb3NpdCByZXR1cm4gdGVybXMuJywKICAgICAgICAnQXNrIGFib3V0IHRoZSBiYXRodHViIGJlZm9yZSB5b3UgZmFsbCBpbiBsb3ZlIHdpdGggYSBwbGFjZSDigJQgbWVtYmVycyBsZWFybmVkIHRoZSBmdW5ueSB3YXkgdGhhdCB0dWJzIGFyZSBSQVJFIGluIEFsYmFuaWFuIGFwYXJ0bWVudHMuJywKICAgICAgICAnV2ludGVyIGNoZWNrOiBWbG9yYSByZW50YWxzIGNhbiBiZSBjb2xkIGFuZCBkYW1wIG9mZi1zZWFzb24uIEFzayBob3cgaXQgaXMgaGVhdGVkIGFuZCB3aGF0IHdpbnRlciBiaWxscyBhY3R1YWxseSByYW4gbGFzdCB5ZWFyLicsCiAgICAgIF0sCiAgICB9LAogIF0sCn0KCmV4cG9ydCBjb25zdCBoYWlyR3VpZGUgPSB7CiAgdGl0bGU6ICdIYWlyIEd1aWRlIOKAlCBicmFpZHMsIGJhcmJlcnMgJiB0aGUgcHJvZHVjdCBwcm9ibGVtJywKICBpbnRybzoKICAgICdUaGUgcXVlc3Rpb24gdGhpcyBjb21tdW5pdHkgYXNrZWQgZm9yIGVpZ2h0IHN0cmFpZ2h0IG1vbnRocy4gSGVyZSBpcyBldmVyeXRoaW5nIHRoZSBIYWlyIGdyb3VwICgiR2V0IHlvdXIgTmFwcyBXYWNrZWQhISEiKSBmaWd1cmVkIG91dCwgaW4gb25lIHBsYWNlLicsCiAgc2VjdGlvbnM6IFsKICAgIHsKICAgICAgaDogJ1doZXJlIHRvIGFjdHVhbGx5IGdvJywKICAgICAgcG9pbnRzOiBbCiAgICAgICAgJ0JyYWlkczogQWZyaWNhbiBCcmFpZCBTaG9wIC8gQmVhdXR5IENlbnRlciBpbiBTaGtvZMOrciDigJQgdGhlIHN0eWxpc3QgaXMgR2hhbmFpYW4sIHNoZSBwb3N0ZWQgaGVyIHdvcmsgaW4gdGhlIGdyb3VwLCBhbmQgc2hlIHdpbGwgVFJBVkVMIHRvIFZsb3JhIGZvciBjbGllbnRzLiBDb250YWN0IGluIHRoZSBEaXJlY3RvcnkuJywKICAgICAgICAnVmxvcmEgZmluYWxseSBoYXMgaXRzIG93biBicmFpZGVyIChqb2luZWQgdGhlIGNvbW11bml0eSBPY3QgMjAyNikg4oCUIGFzayBpbiB0aGUgSGFpciBncm91cCBmb3IgaGVyIGN1cnJlbnQgY29udGFjdCB3aGlsZSBoZXIgcHVibGljIGxpc3RpbmcgaXMgYmVpbmcgY29uZmlybWVkLicsCiAgICAgICAgJ0JhcmJlcjogRXJnaSwgYm9va2FibGUgb24gSW5zdGFncmFtIChEaXJlY3RvcnkpLCBUaXJhbmEvVmxvcmEuIExvYyByZXR3aXN0cyByZW1haW4gdGhlIGhhcmRlc3Qgc2VydmljZSB0byBmaW5kIOKAlCBsaW5lIGl0IHVwIGluIHRoZSBIYWlyIGdyb3VwIGJlZm9yZSB5b3UgbmVlZCBpdCwgbm90IGFmdGVyLicsCiAgICAgIF0sCiAgICB9LAogICAgewogICAgICBoOiAnR2V0dGluZyB0byBTaGtvZMOrciAoYW5kIHdoeSBtb3N0IHBlb3BsZSBkb27igJl0KScsCiAgICAgIHBvaW50czogWwogICAgICAgICdUaGVyZSBpcyBubyBxdWljayBob3A6IGl0IGlzIFZsb3JhIOKGkiBUaXJhbmEg4oaSIFNoa29kw6tyIGJ5IGJ1cywgbW9zdCBvZiBhIGRheSByZXR1cm4uIFRoYXQgaXMgd2h5IHRoZSBCZWF1dHkgQ2VudGVy4oCZcyB0cmF2ZWwtdG8tVmxvcmEgb2ZmZXIgbWF0dGVycyDigJQgc3BsaXQgaGVyIHRyaXAgYmV0d2VlbiAy4oCTMyBjbGllbnRzIG9uIHRoZSBzYW1lIGRheSBhbmQgZXZlcnlvbmUgd2lucy4nLAogICAgICAgICdVc2UgdGhlIEJ1cyBHdWlkZSBhYm92ZSBmb3IgdGhlIFRpcmFuYSBsZWcsIHRoZW4gVGlyYW5hIOKGkiBTaGtvZMOrciBidXNlcyBsZWF2ZSBmcm9tIHRoZSBzYW1lIFNvdXRoICYgTm9ydGggVGVybWluYWwgdGhyb3VnaCB0aGUgZGF5LicsCiAgICAgIF0sCiAgICB9LAogICAgewogICAgICBoOiAnVGhlIHByb2R1Y3QgcHJvYmxlbSAocmVhbCBwcmljZXMgbWVtYmVycyBwYWlkKScsCiAgICAgIHBvaW50czogWwogICAgICAgICdUaXJhbmEgYnJhaWQgc2hvcCBxdW90ZTog4oKsMTAwIGZvciAzIHBhY2tzIG9mIFhwcmVzc2lvbiBwcmUtc3RyZXRjaGVkIGJyYWlkaW5nIGhhaXIuIFVTIHByaWNlOiAkNS45OSBhIHBhY2suIERvIG5vdCBwYXkgdGhlIHBhbmljIHByaWNlLicsCiAgICAgICAgJ0FtYXpvbiBJbnRlcm5hdGlvbmFsIHdhcyB0aGUgd2lubmVyIGZvciBvbmUgbWVtYmVyOiBhYm91dCAkMTMyIHRvdGFsIGZvciBhbiBvcmRlciB0aGF0IGNvc3QgJDM2MyByb3V0ZWQgdGhyb3VnaCBmYW1pbHkgYXQgaG9tZSDigJQgYW5kIG5vIGN1c3RvbXMgaGFzc2xlLicsCiAgICAgICAgJ0N1c3RvbXMgYml0ZXMgb3JkZXJzIG92ZXIgcm91Z2hseSDigqwyMDsgVGVtdSBkb2RnZXMgdGhlIGZlZXMgYnV0IGlzIHNsb3cuIEdyZWVjZSBhbmQgQnVsZ2FyaWEgc2hvcHBpbmcgcnVucyBhcmUgdGhlIG90aGVyIG1lbWJlciByb3V0ZS4nLAogICAgICAgICdNZW1iZXJzIHRyYXZlbGxpbmcgdG8gTG9uZG9uIG9yIHRoZSBVUyBzb21ldGltZXMgY2FycnkgcHJvZHVjdCBvcmRlcnMgZm9yIHRoZSBncm91cCDigJQgd2F0Y2ggdGhlIEhhaXIgZ3JvdXAgYW5kIGdldCBvbiBhIHJ1biBlYXJseS4nLAogICAgICBdLAogICAgfSwKICBdLAp9Cg==
+// Guides — built in the order Jared set on 2026-11-01: 1) Bus, 2) Housing, 3) Hair.
+// Bus times were checked 1 Nov 2026 against the Tirana Airport bus listing and
+// Gjirafa Travel's live booking pages. Albanian bus times CHANGE (season,
+// operator, station moves) and sources regularly disagree — every route carries
+// a "checked" date and the guide tells users to re-confirm the day before.
+// Prices are what the sources showed on the check date, in EUR as listed there.
+
+export const BUS_CHECKED = 'Checked 1 Nov 2026 — re-confirm your bus the day before you travel'
+
+export const busRoutes = [
+  {
+    route: 'Tirana Airport (TIA) → Vlora',
+    operator: 'Hermes Aeroport',
+    times: '03:30 · 11:00 · 12:30 · 14:00 · 16:00 · 18:00 · 20:00 · 22:15 · 00:45',
+    duration: '~3 hours',
+    price: '1,200 lek (≈ €12–13)',
+    notes:
+      'Direct — you do NOT need to go into Tirana first. Exit Arrivals, turn left to the bus stops. Booking sites list fewer departures than the airport, which is exactly why you confirm the day before.',
+  },
+  {
+    route: 'Vlora → Tirana Airport (TIA)',
+    operator: 'Hermes Aeroport',
+    times: '01:30 · 03:30 · 06:00 · 07:00 · 09:00 · 11:00 · 13:00 · 15:00 · 20:00',
+    duration: '~3 hours',
+    price: '1,200 lek (≈ €12–15)',
+    notes:
+      'Departs Vlora Station. For a morning flight, the 01:30 and 03:30 buses exist for a reason — take one earlier than feels necessary. Contact on the airport listing: +355 67 609 7542, reservation@hermesaeroport.com.',
+  },
+  {
+    route: 'Vlora ↔ Tirana (city)',
+    operator: 'Interbus Vlora · El-Alba Trans',
+    times: 'Roughly every 30 min, ~05:00–17:30 (21–27 buses/day)',
+    duration: '2h 20m – 2h 50m',
+    price: '€8',
+    notes:
+      'Vlora side: the bus station on Rruga Demokracia (it moved — older blogs point at the Independence Monument, that is out of date). Tirana side: South & North Terminal (Terminali i Jugut dhe Veriut).',
+  },
+  {
+    route: 'Vlora → Saranda',
+    operator: 'Transbus Saranda · Boraku · Saranda Transport',
+    times: '07:00 · 11:30 · 13:00 · 14:30 · 16:00 (7/day on booking sites)',
+    duration: '2h 20m – 4h — the route decides it',
+    price: '€15',
+    notes:
+      'Two ways south: COASTAL over Llogara through Dhërmi and Himarë (slower, stunning) and INLAND through Tepelenë and Gjirokastër. Ask which one your bus takes before you pay — if you get carsick, inland is kinder than the Llogara switchbacks.',
+  },
+  {
+    route: 'Gjirokastër ↔ Saranda',
+    operator: 'Argjiro · Trans Butrinti',
+    times: '08:00 · 10:00 · 13:45 (about 4/day)',
+    duration: '1h – 1h 15m on booking sites (allow up to 2h)',
+    price: '€6',
+    notes:
+      'Many Tirana/Vlora–Saranda buses also pass through Gjirokastër — confirm the stop with the driver when you board, not when you arrive.',
+  },
+  {
+    route: 'Vlora → Gjirokastër',
+    operator: 'Via inland Saranda buses',
+    times: 'No reliable published timetable found',
+    duration: 'Ask at Vlora Station',
+    price: 'Ask at the station',
+    notes:
+      'Honest gap: booking sites do not publish this leg cleanly. The inland Vlora→Saranda buses pass Gjirokastër — go to Vlora Station the day before, ask for the Gjirokastër stop, and write the time down. If a member rides it, tell an admin and this guide gets the real time.',
+  },
+]
+
+export const busHowItWorks = [
+  'Cash is king: pay the driver or conductor in lek. Cards are the exception, not the rule.',
+  'Arrive 20–30 minutes early. On many routes there is no ticket office working ahead of time — your bag on a seat is your reservation.',
+  'Schedules change with the season and stations MOVE (Vlora’s moved to Rruga Demokracia). Any time older than this season is a rumour.',
+  'Check live before you travel: Gjirafa Travel (travel.gjirafa.com) lists bookable departures, and Albania’s official eTransport platform is the government source.',
+  'Screenshot your destination in Albanian — Vlorë, Tiranë, Sarandë, Gjirokastër, Shkodër — and show the driver. Pronunciation will not save you; the screenshot will.',
+  'Going to the airport with big luggage or a group? Price a shared taxi in the WhatsApp group first (see Drivers in the Directory) — the bus wins on price, the taxi wins on sanity.',
+]
+
+export const housingGuide = {
+  title: 'Housing Guide — rent without getting played',
+  intro:
+    'Built from what members in this community actually lived: the good advice and the scam that already happened to one of us.',
+  sections: [
+    {
+      h: 'The search (what works)',
+      points: [
+        'Land in an Airbnb first and search on foot — a "good" listing can hide mold and plumbing problems, and members have been burned by photos.',
+        'Most members in Vlora live along the Lungomare or just behind it. Walk the street you would live on at night before you sign anything.',
+        'Ask in the WhatsApp group BEFORE you sign: members warn each other about specific landlords and buildings here first.',
+      ],
+    },
+    {
+      h: 'The lease trap',
+      points: [
+        'For the 12-month visa-free stay you do NOT need a notarized lease. Landlords who require one usually raise the rent, because notarizing means they pay tax on it and pass that cost to you (La Shawn, Feb 2026).',
+        'No contract at all is the other extreme — one member\'s landlord exploited exactly that at move-out. Get at least a simple signed agreement, in writing, in a language you read.',
+      ],
+    },
+    {
+      h: 'The electricity scam (it already happened here)',
+      points: [
+        'The pattern: rent agreed with "electricity included", then at move-out the landlord claims your last few days used an impossible amount (one member: a claimed $100 for 8 days) and demands extra cash.',
+        'Defence: "electricity included" IN WRITING, photograph the meter on day one and on your last day, and keep your chat with the landlord — screenshots are evidence.',
+      ],
+    },
+    {
+      h: 'Move-in checklist',
+      points: [
+        'Meter photo (electric + water), photos of every existing scratch/damage, sent to the landlord the same day.',
+        'Agree in writing: rent, what is included, notice period, deposit return terms.',
+        'Ask about the bathtub before you fall in love with a place — members learned the funny way that tubs are RARE in Albanian apartments.',
+        'Winter check: Vlora rentals can be cold and damp off-season. Ask how it is heated and what winter bills actually ran last year.',
+      ],
+    },
+  ],
+}
+
+export const hairGuide = {
+  title: 'Hair Guide — braids, barbers & the product problem',
+  intro:
+    'The question this community asked for eight straight months. Here is everything the Hair group ("Get your Naps Wacked!!!") figured out, in one place.',
+  sections: [
+    {
+      h: 'Where to actually go',
+      points: [
+        'Braids: African Braid Shop / Beauty Center in Shkodër — the stylist is Ghanaian, she posted her work in the group, and she will TRAVEL to Vlora for clients. Contact in the Directory.',
+        'Vlora finally has its own braider (joined the community Oct 2026) — ask in the Hair group for her current contact while her public listing is being confirmed.',
+        'Barber: Ergi, bookable on Instagram (Directory), Tirana/Vlora. Loc retwists remain the hardest service to find — line it up in the Hair group before you need it, not after.',
+      ],
+    },
+    {
+      h: 'Getting to Shkodër (and why most people don’t)',
+      points: [
+        'There is no quick hop: it is Vlora → Tirana → Shkodër by bus, most of a day return. That is why the Beauty Center’s travel-to-Vlora offer matters — split her trip between 2–3 clients on the same day and everyone wins.',
+        'Use the Bus Guide above for the Tirana leg, then Tirana → Shkodër buses leave from the same South & North Terminal through the day.',
+      ],
+    },
+    {
+      h: 'The product problem (real prices members paid)',
+      points: [
+        'Tirana braid shop quote: €100 for 3 packs of Xpression pre-stretched braiding hair. US price: $5.99 a pack. Do not pay the panic price.',
+        'Amazon International was the winner for one member: about $132 total for an order that cost $363 routed through family at home — and no customs hassle.',
+        'Customs bites orders over roughly €20; Temu dodges the fees but is slow. Greece and Bulgaria shopping runs are the other member route.',
+        'Members travelling to London or the US sometimes carry product orders for the group — watch the Hair group and get on a run early.',
+      ],
+    },
+  ],
+}

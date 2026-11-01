@@ -1,1 +1,19 @@
-aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEZhcUl0ZW0oeyBmYXEgfSkgewogIGNvbnN0IFtvcGVuLCBzZXRPcGVuXSA9IHVzZVN0YXRlKGZhbHNlKQogIHJldHVybiAoCiAgICA8ZGl2IGNsYXNzTmFtZT0iZmFxLWl0ZW0iPgogICAgICA8YnV0dG9uIGNsYXNzTmFtZT0iZmFxLXEiIG9uQ2xpY2s9eygpID0+IHNldE9wZW4oIW9wZW4pfSBhcmlhLWV4cGFuZGVkPXtvcGVufT4KICAgICAgICA8c3Bhbj57ZmFxLnF9PC9zcGFuPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmFxLWFycm93Ij57b3BlbiA/ICfiiJInIDogJysnfTwvc3Bhbj4KICAgICAgPC9idXR0b24+CiAgICAgIHtvcGVuICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmFxLWEiPgogICAgICAgICAgPHA+e2ZhcS5hfTwvcD4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibWV0YSI+U291cmNlOiB7ZmFxLnNvdXJjZX08L3A+CiAgICAgICAgPC9kaXY+CiAgICAgICl9CiAgICA8L2Rpdj4KICApCn0K
+import { useState } from 'react'
+
+export default function FaqItem({ faq }) {
+  const [open, setOpen] = useState(false)
+  return (
+    <div className="faq-item">
+      <button className="faq-q" onClick={() => setOpen(!open)} aria-expanded={open}>
+        <span>{faq.q}</span>
+        <span className="faq-arrow">{open ? '−' : '+'}</span>
+      </button>
+      {open && (
+        <div className="faq-a">
+          <p>{faq.a}</p>
+          <p className="meta">Source: {faq.source}</p>
+        </div>
+      )}
+    </div>
+  )
+}

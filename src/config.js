@@ -1,1 +1,17 @@
-Ly8g4pSA4pSAIFNpdGUgY29uZmlndXJhdGlvbiDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIDilIAKLy8gR09PR0xFIEJBQ0tFTkQgKGZyZWUsIG5vIHNlcnZlciBuZWVkZWQpOgovLyAxLiBDcmVhdGUgYSBHb29nbGUgU2hlZXQgd2l0aCB0aGUgY29sdW1ucyBpbiBSRUFETUUubWQgKCJHb29nbGUgU2hlZXRzIGJhY2tlbmQiKS4KLy8gMi4gSW4gdGhlIFNoZWV0OiBGaWxlIOKGkiBTaGFyZSDihpIgIkFueW9uZSB3aXRoIHRoZSBsaW5rIGNhbiB2aWV3Ii4KLy8gMy4gUGFzdGUgaXRzIENTViBmZWVkIFVSTCBiZWxvdy4gRm9ybWF0OgovLyAgICBodHRwczovL2RvY3MuZ29vZ2xlLmNvbS9zcHJlYWRzaGVldHMvZC88U0hFRVRfSUQ+L2d2aXovdHE/dHF4PW91dDpjc3Ymc2hlZXQ9TGlzdGluZ3MKLy8gV2hpbGUgdGhpcyBpcyBlbXB0eSwgdGhlIGFwcCB1c2VzIHRoZSBidW5kbGVkIHNlZWQgZGF0YSBpbiBzcmMvZGF0YS9saXN0aW5ncy5qcy4KLy8KLy8gR0VUIExJU1RFRCBGT1JNOiBjcmVhdGUgYSBmcmVlIEdvb2dsZSBGb3JtIHdpdGggdGhlIGZpZWxkcyBpbiB0aGUgUkVBRE1FIGFuZAovLyBwYXN0ZSBpdHMgc2hhcmUgbGluayBiZWxvdy4gU3VibWlzc2lvbnMgbGFuZCBpbiBhIEdvb2dsZSBTaGVldDsgYSBsaXN0aW5nIG9ubHkKLy8gZ29lcyBwdWJsaWMgYWZ0ZXIgdGhlIGFkbWluIGNvcGllcyBpdCBpbnRvIHRoZSBMaXN0aW5ncyBzaGVldCAoYXBwcm92YWwgZ2F0ZSkuCgpleHBvcnQgY29uc3QgR09PR0xFX1NIRUVUX0NTVl9VUkwgPSAnJwpleHBvcnQgY29uc3QgR0VUX0xJU1RFRF9GT1JNX1VSTCA9ICcnCgovLyBGYWxsYmFjayBjb250YWN0IHdoZW4gYSBsaXN0aW5nIGhhcyBubyBkaXJlY3QgbnVtYmVyOiB0aGUgY29tbXVuaXR5IGludml0ZS4KZXhwb3J0IGNvbnN0IENPTU1VTklUWV9OQU1FID0gJ0JsYWNrIEFtZXJpY2FuIEV4cGF0cyBpbiBBbGJhbmlhJwo=
+// ── Site configuration ──────────────────────────────────────────────────────
+// GOOGLE BACKEND (free, no server needed):
+// 1. Create a Google Sheet with the columns in README.md ("Google Sheets backend").
+// 2. In the Sheet: File → Share → "Anyone with the link can view".
+// 3. Paste its CSV feed URL below. Format:
+//    https://docs.google.com/spreadsheets/d/<SHEET_ID>/gviz/tq?tqx=out:csv&sheet=Listings
+// While this is empty, the app uses the bundled seed data in src/data/listings.js.
+//
+// GET LISTED FORM: create a free Google Form with the fields in the README and
+// paste its share link below. Submissions land in a Google Sheet; a listing only
+// goes public after the admin copies it into the Listings sheet (approval gate).
+
+export const GOOGLE_SHEET_CSV_URL = ''
+export const GET_LISTED_FORM_URL = ''
+
+// Fallback contact when a listing has no direct number: the community invite.
+export const COMMUNITY_NAME = 'Black American Expats in Albania'

@@ -1,1 +1,54 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCiMgQmxhY2sgaW4gQWxiYW5pYQoKIyMjIFRoZSBHdWlkZSAmIERpcmVjdG9yeSBmb3IgQmxhY2sgQW1lcmljYW4gRXhwYXRzIGluIEFsYmFuaWEKCipJbiB0aGUgdHJhZGl0aW9uIG9mIFRoZSBHcmVlbiBCb29rICgxOTM24oCTMTk2Nykg4oCUIHRoZSBzZXJ2aWNlcyBvdXIgY29tbXVuaXR5IGFjdHVhbGx5IHVzZXMsIGZvdW5kIGluIDMwIHNlY29uZHMsIGNvbnRhY3RlZCBpbiBvbmUgdGFwLioKCiFbUmVhY3RdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmVhY3QtMTktMTczNTJBP3N0eWxlPWZsYXQmbG9nbz1yZWFjdCZsb2dvQ29sb3I9QzE5QTNEKQohW1ZpdGVdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVml0ZS04LTE3MzUyQT9zdHlsZT1mbGF0JmxvZ289dml0ZSZsb2dvQ29sb3I9QzE5QTNEKQohW0dpdEh1YiBQYWdlc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Ib3N0ZWQtR2l0SHViJTIwUGFnZXMtMTczNTJBP3N0eWxlPWZsYXQmbG9nbz1naXRodWImbG9nb0NvbG9yPUMxOUEzRCkKIVtMaWNlbnNlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpY2Vuc2UtTUlULUMxOUEzRD9zdHlsZT1mbGF0KQoKKipbTGl2ZSBzaXRlIOKGkl0oaHR0cHM6Ly9qYXJlZGZvbnRhaW5lMjAwMi5naXRodWIuaW8vYmxhY2staW4tYWxiYW5pYS8pKioKCjxpbWcgc3JjPSJkb2NzL3NjcmVlbnNob3QtZGVza3RvcC5qcGciIGFsdD0iQmxhY2sgaW4gQWxiYW5pYSDigJQgZGVza3RvcCB2aWV3IiB3aWR0aD0iODIwIj4KCjwvZGl2PgoKIyMgV2h5IGl0IGV4aXN0cwoKVGhlIGNvbW11bml0eSdzIFdoYXRzQXBwIGdyb3VwcyBoZWxkICoqNDc4IHF1ZXN0aW9ucyoqIGluIGVpZ2h0IG1vbnRocyDigJQgdGhlIHNhbWUgc2l4LCBvdmVyIGFuZCBvdmVyLCBiZWNhdXNlIGNoYXQgc2Nyb2xscyBhd2F5OiAqV2hlcmUgY2FuIEkgZ2V0IGJyYWlkcz8gV2hpY2ggZGVudGlzdD8gSG93IGRvZXMgdGhlIGxhbmRsb3JkIGVsZWN0cmljaXR5IHNjYW0gd29yaz8qIFRoaXMgc2l0ZSBpcyB0aGUgY29tbXVuaXR5J3MgbWVtb3J5LgoKIyMgV2hhdCdzIGluc2lkZQoKLSDwn5eC77iPICoqRGlyZWN0b3J5Kiog4oCUIG1lbWJlci12b3VjaGVkIGxpc3RpbmdzIChoYWlyLCBoZWFsdGgsIGRyaXZlcnMsIGZvb2QsIEJsYWNrLW93bmVkIGJ1c2luZXNzZXMpIHdpdGggb25lLXRhcCBXaGF0c0FwcCBidXR0b25zCi0g8J+ajCAqKkNoYXB0ZXIgMDEgwrcgQnVzIEd1aWRlKiog4oCUIGFpcnBvcnQgJiBpbnRlcmNpdHkgcm91dGVzLCB0aW1lcyBjaGVja2VkIGFnYWluc3QgbGl2ZSBzb3VyY2VzCi0g8J+PoCAqKkNoYXB0ZXIgMDIgwrcgSG91c2luZyBHdWlkZSoqIOKAlCB0aGUgbGVhc2UgdHJhcCBhbmQgdGhlIGVsZWN0cmljaXR5IHNjYW0sIGZyb20gcmVhbCBtZW1iZXIgc3RvcmllcwotIPCfkofwn4++ICoqQ2hhcHRlciAwMyDCtyBIYWlyIEd1aWRlKiog4oCUIGJyYWlkZXJzLCBiYXJiZXJzLCBhbmQgdGhlIGhhaXItcHJvZHVjdCBwcm9ibGVtLCBzb2x2ZWQKLSDinZMgKipLbm93IEJlZm9yZSBZb3UgR28qKiDigJQgdGhlIHJlcGVhdGluZyBxdWVzdGlvbnMsIGFuc3dlcmVkIG9uY2UKCjxpbWcgc3JjPSJkb2NzL3NjcmVlbnNob3QtbW9iaWxlLmpwZyIgYWx0PSJCbGFjayBpbiBBbGJhbmlhIOKAlCBtb2JpbGUgdmlldyIgd2lkdGg9IjMwMCI+CgojIyBCdWlsdCB3aXRoCgpSZWFjdCArIFZpdGUgwrcgR29vZ2xlIFNoZWV0cyBhcyBhIGZyZWUgbm8tc2VydmVyIGJhY2tlbmQgKHdpdGggYnVuZGxlZCBmYWxsYmFjayBkYXRhKSDCtyBHaXRIdWIgQWN0aW9ucyDihpIgR2l0SHViIFBhZ2VzIMK3ICoqTW9kZXJuIEdyZWVuIEJvb2sqKiBkZXNpZ24gc3lzdGVtIOKAlCBzZWUgW0RFU0lHTi5tZF0oREVTSUdOLm1kKQoKKipQcml2YWN5IGlzIGEgZmVhdHVyZToqKiBsaXN0aW5ncyBhcHBlYXIgb25seSBhZnRlciB0aGUgcHJvdmlkZXIgc2F5cyB5ZXMgYW5kIGEgbWVtYmVyIHZvdWNoZXMg4oCUIGVuZm9yY2VkIGluIGNvZGUsIG5vdCBwb2xpY3kuIFNldHVwIGFuZCBkYXRhIGluc3RydWN0aW9ucyBsaXZlIGluIHRoZSBwcm9qZWN0IGRvY3MsIG5vdCBoZXJlLgoKIyMgUnVuIGxvY2FsbHkKCmBgYGJhc2gKbnBtIGluc3RhbGwgJiYgbnBtIHJ1biBkZXYKYGBgCgotLS0KCjxkaXYgYWxpZ249ImNlbnRlciI+CgoqQnVpbHQgYnkgdGhlIEJsYWNrIEFtZXJpY2FuIEV4cGF0cyBpbiBBbGJhbmlhIGNvbW11bml0eSDCtyBXZSBidXkgQmxhY2sgZmlyc3Qgd2hlbiB3ZSBjYW4g4pyK8J+PvioKCk1JVCBMaWNlbnNlCgo8L2Rpdj4K
+<div align="center">
+
+# Black in Albania
+
+### The Guide & Directory for Black American Expats in Albania
+
+*In the tradition of The Green Book (1936–1967) — the services our community actually uses, found in 30 seconds, contacted in one tap.*
+
+![React](https://img.shields.io/badge/React-19-17352A?style=flat&logo=react&logoColor=C19A3D)
+![Vite](https://img.shields.io/badge/Vite-8-17352A?style=flat&logo=vite&logoColor=C19A3D)
+![GitHub Pages](https://img.shields.io/badge/Hosted-GitHub%20Pages-17352A?style=flat&logo=github&logoColor=C19A3D)
+![License](https://img.shields.io/badge/License-MIT-C19A3D?style=flat)
+
+**[Live site →](https://jaredfontaine2002.github.io/black-in-albania/)**
+
+<img src="docs/screenshot-desktop.jpg" alt="Black in Albania — desktop view" width="820">
+
+</div>
+
+## Why it exists
+
+The community's WhatsApp groups held **478 questions** in eight months — the same six, over and over, because chat scrolls away: *Where can I get braids? Which dentist? How does the landlord electricity scam work?* This site is the community's memory.
+
+## What's inside
+
+- 🗂️ **Directory** — member-vouched listings (hair, health, drivers, food, Black-owned businesses) with one-tap WhatsApp buttons
+- 🚌 **Chapter 01 · Bus Guide** — airport & intercity routes, times checked against live sources
+- 🏠 **Chapter 02 · Housing Guide** — the lease trap and the electricity scam, from real member stories
+- 💇🏾 **Chapter 03 · Hair Guide** — braiders, barbers, and the hair-product problem, solved
+- ❓ **Know Before You Go** — the repeating questions, answered once
+
+<img src="docs/screenshot-mobile.jpg" alt="Black in Albania — mobile view" width="300">
+
+## Built with
+
+React + Vite · Google Sheets as a free no-server backend (with bundled fallback data) · GitHub Actions → GitHub Pages · **Modern Green Book** design system — see [DESIGN.md](DESIGN.md)
+
+**Privacy is a feature:** listings appear only after the provider says yes and a member vouches — enforced in code, not policy. Setup and data instructions live in the project docs, not here.
+
+## Run locally
+
+```bash
+npm install && npm run dev
+```
+
+---
+
+<div align="center">
+
+*Built by the Black American Expats in Albania community · We buy Black first when we can ✊🏾*
+
+MIT License
+
+</div>

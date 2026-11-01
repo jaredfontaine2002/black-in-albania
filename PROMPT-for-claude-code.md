@@ -1,1 +1,49 @@
-IyBQYXN0ZSB0aGlzIGludG8gQ2xhdWRlIENvZGUgd2l0aCB0aGUgcHJvamVjdCBvcGVuCgpZb3UgYXJlIHBvbGlzaGluZyB0aGUgREVTSUdOIG9mIGFuIGV4aXN0aW5nLCB3b3JraW5nIFJlYWN0ICsgVml0ZSBhcHAgY2FsbGVkCiJCbGFjayBpbiBBbGJhbmlhIiDigJQgYSBndWlkZSAmIGRpcmVjdG9yeSBmb3IgdGhlIEJsYWNrIEFtZXJpY2FuIGV4cGF0IGNvbW11bml0eQppbiBBbGJhbmlhIChWbG9yYSwgVGlyYW5hLCBTYXJhbmRhLCBTaGtvZMOrcikuIFRoZSBkYXRhLCBjb250ZW50IGFuZCBsb2dpYyBhcmUKZmluaXNoZWQgYW5kIGNvcnJlY3QuIFlvdXIgam9iIGlzIHZpc3VhbCBkZXNpZ24gb25seTogbWFrZSBpdCBsb29rIGdlbnVpbmVseQpiZWF1dGlmdWwsIGxpa2UgYSBtb2Rlcm4gcHJpbnRlZCBndWlkZWJvb2sgYnJvdWdodCB0byB0aGUgd2ViLgoKIyMgVGhlIGRlc2lnbiBkaXJlY3Rpb24gKGFscmVhZHkgY2hvc2VuIOKAlCBkbyBub3QgY2hhbmdlIGl0KQoiTU9ERVJOIEdSRUVOIEJPT0siOiBhIGhvbWFnZSB0byBUaGUgTmVncm8gTW90b3Jpc3QgR3JlZW4gQm9vayAoMTkzNuKAkzE5NjcpLgotIFBhbGV0dGU6IHdhcm0gY3JlYW0gcGFwZXIgI0ZBRjVFQywgZGVlcCBncmVlbiAjMTczNTJBLCBnb2xkICNDMTlBM0QsCiAgdGVycmFjb3R0YSBhY2NlbnQgI0M5NkY0QS4gKERlZmluZWQgYXMgQ1NTIHZhcmlhYmxlcyBpbiBzcmMvaW5kZXguY3NzLikKLSBUeXBlOiBGcmF1bmNlcyAoc2VyaWYgZGlzcGxheSkgZm9yIGhlYWRsaW5lcywgSW50ZXIgZm9yIFVJL2JvZHkuCi0gVGhlIGhlcm8gaXMgYSBndWlkZWJvb2sgQ09WRVI6IGRlZXAtZ3JlZW4gcGFuZWwsIGdvbGQgZG91YmxlLXJ1bGUgZnJhbWUsCiAgbWFzdGhlYWQgdGl0bGUsICIyMDI2IEVkaXRpb24iIGJhZGdlLgotIEd1aWRlcyBhcmUgbnVtYmVyZWQgQ0hBUFRFUlMgKDAxIEJ1cyDCtyAwMiBIb3VzaW5nIMK3IDAzIEhhaXIpOyBidXMgcm91dGVzCiAgYXJlIHRpbWV0YWJsZS1zdHlsZSByb3dzLgotIEZ1bGwgcmF0aW9uYWxlIGFuZCByZWZlcmVuY2VzIGFyZSBpbiBERVNJR04ubWQg4oCUIHJlYWQgaXQgZmlyc3QuCgojIyBXaGF0IHRvIGltcHJvdmUKMS4gQ292ZXIgYXJ0IHRyZWF0bWVudDogZ2l2ZSB0aGUgaGVybyBhIHJpY2hlciwgbW9yZSAicHJpbnRlZCBjb3ZlciIgZmVlbCDigJQKICAgc3VidGxlIHRleHR1cmUsIG9ybmFtZW50IHJ1bGVzLCBtYXliZSBhIHNpbXBsZSBpbmxpbmUtU1ZHIG1vdGlmIChBbGJhbmlhbgogICBSaXZpZXJhIGNvYXN0bGluZSAvIG1vdW50YWlucyAvIHN1bikgZHJhd24gaW4gZ29sZCBsaW5lIG9uIGdyZWVuLiBObyBzdG9jawogICBwaG90b3MsIG5vIGV4dGVybmFsIGltYWdlIFVSTHMuCjIuIFZlcnRpY2FsIHJoeXRobSAmIHNwYWNpbmcgcG9saXNoIGFjcm9zcyBjb3ZlciwgdHJ1c3Qgc3RyaXAsIHBhbmVscywgZm9vdGVyLgozLiBMaXN0aW5nIGNhcmRzOiByZWZpbmUgdGhlIHZvdWNoZWQgc2VhbCwgc3BvdGxpZ2h0IGZyYW1lLCBwcmljZSB0cmVhdG1lbnQ7CiAgIGNhdGVnb3J5IGljb25zIChpbmxpbmUgU1ZHIG9yIHVuaWNvZGUpIHdvdWxkIGhlbHAgc2Nhbm5pbmcuCjQuIEJ1cyB0aW1ldGFibGUgcm93czogbWFrZSBkZXBhcnR1cmVzIHJlYWQgbGlrZSBhIHJlYWwgdGltZXRhYmxlIChtb25vIG9yCiAgIHRhYnVsYXIgZmlndXJlcyBmb3IgdGltZXMsIHJvdXRlIGJhZGdlIGNoaXBzIGZvciBDT0FTVEFMIC8gSU5MQU5EKS4KNS4gQ2hhcHRlciBoZWFkZXJzIGZvciB0aGUgdGhyZWUgZ3VpZGVzOiBiaWcgc2VyaWYgbnVtZXJhbHMsIGdvbGQgcnVsZXMuCjYuIE1pY3JvLWRldGFpbHM6IGZhdmljb24gKGdyZWVuIHNxdWFyZSwgZ29sZCBCPyksIHNlbGVjdGlvbiBjb2xvciwgZm9jdXMKICAgc3RhdGVzLCBwcmludCBzdHlsZXNoZWV0IHdvdWxkIGJlIGEgbmljZSBub2QgdG8gYSBwcmludGVkIGd1aWRlLgo3LiBLZWVwIGl0IGZhc3Q6IG5vIG5ldyBoZWF2eSBkZXBlbmRlbmNpZXM7IHN5c3RlbS1yZXNwZWN0aW5nIGRhcmsgdGV4dCBvbgogICBjcmVhbSBtdXN0IHBhc3MgV0NBRyBBQSBjb250cmFzdC4KCiMjIEhBUkQgUlVMRVMg4oCUIGRvIG5vdCBicmVhayB0aGVzZQotIERvIE5PVCBjaGFuZ2UgYW55IGNvbnRlbnQsIGxpc3RpbmdzIGRhdGEsIHByaWNlcywgYnVzIHRpbWVzLCBvciBGQVEgdGV4dC4KLSBEbyBOT1QgdG91Y2ggdGhlIGRhdGEgbGF5ZXIgbG9naWM6IHNyYy9saWIvbGlzdGluZ3NTb3VyY2UuanMsIHRoZSBhcHByb3ZhbAogIGdhdGUgKGFwcHJvdmVkOmZhbHNlIGxpc3RpbmdzIG11c3QgbmV2ZXIgcmVuZGVyKSwgc3JjL2NvbmZpZy5qcywgb3IgdGhlCiAgR29vZ2xlIFNoZWV0cyBDU1YgZmFsbGJhY2sgYmVoYXZpb3VyLgotIFBSSVZBQ1k6IG5ldmVyIGFkZCBwZXJzb25hbCBwaG9uZSBudW1iZXJzLiBPbmUgbGlzdGluZyAoYSBWbG9yYSBicmFpZGVyKQogIGlzIGRlbGliZXJhdGVseSBudW1iZXItZnJlZSBpbiBjb2RlIOKAlCBoZXIgbnVtYmVyIG11c3QgbmV2ZXIgYXBwZWFyIGluIHRoaXMKICByZXBvLiBPbmx5IGJ1c2luZXNzIGNvbnRhY3RzIGFscmVhZHkgaW4gdGhlIGRhdGEgbWF5IGJlIHNob3duLgotIERvIE5PVCBjaGFuZ2Ugdml0ZS5jb25maWcuanMgYmFzZSBoYW5kbGluZyBvciAuZ2l0aHViL3dvcmtmbG93cy9kZXBsb3kueW1sCiAgKEdpdEh1YiBQYWdlcyBkZXBsb3kgZGVwZW5kcyBvbiB0aGVtKS4KLSBLZWVwIGV2ZXJ5dGhpbmcgb25lIHBhZ2UgKG5vIHJvdXRlciksIGtlZXAgaXQgbW9iaWxlLWZpcnN0LCBhbmQga2VlcCB0aGUKICBidWlsZCBwYXNzaW5nOiBgbnBtIHJ1biBidWlsZGAgbXVzdCBzdWNjZWVkIHdoZW4geW91IGFyZSBkb25lLgotIFdoZW4gZmluaXNoZWQsIHN1bW1hcmlzZSB3aGF0IHlvdSBjaGFuZ2VkIGZpbGUtYnktZmlsZSBpbiB1bmRlciAyMDAgd29yZHMsCiAgYW5kIGZsYWcgYW55dGhpbmcgeW91IHdhbnRlZCB0byBjaGFuZ2UgYnV0IGRpZG4ndCBiZWNhdXNlIG9mIHRoZSBydWxlcy4K
+# Paste this into Claude Code with the project open
+
+You are polishing the DESIGN of an existing, working React + Vite app called
+"Black in Albania" — a guide & directory for the Black American expat community
+in Albania (Vlora, Tirana, Saranda, Shkodër). The data, content and logic are
+finished and correct. Your job is visual design only: make it look genuinely
+beautiful, like a modern printed guidebook brought to the web.
+
+## The design direction (already chosen — do not change it)
+"MODERN GREEN BOOK": a homage to The Negro Motorist Green Book (1936–1967).
+- Palette: warm cream paper #FAF5EC, deep green #17352A, gold #C19A3D,
+  terracotta accent #C96F4A. (Defined as CSS variables in src/index.css.)
+- Type: Fraunces (serif display) for headlines, Inter for UI/body.
+- The hero is a guidebook COVER: deep-green panel, gold double-rule frame,
+  masthead title, "2026 Edition" badge.
+- Guides are numbered CHAPTERS (01 Bus · 02 Housing · 03 Hair); bus routes
+  are timetable-style rows.
+- Full rationale and references are in DESIGN.md — read it first.
+
+## What to improve
+1. Cover art treatment: give the hero a richer, more "printed cover" feel —
+   subtle texture, ornament rules, maybe a simple inline-SVG motif (Albanian
+   Riviera coastline / mountains / sun) drawn in gold line on green. No stock
+   photos, no external image URLs.
+2. Vertical rhythm & spacing polish across cover, trust strip, panels, footer.
+3. Listing cards: refine the vouched seal, spotlight frame, price treatment;
+   category icons (inline SVG or unicode) would help scanning.
+4. Bus timetable rows: make departures read like a real timetable (mono or
+   tabular figures for times, route badge chips for COASTAL / INLAND).
+5. Chapter headers for the three guides: big serif numerals, gold rules.
+6. Micro-details: favicon (green square, gold B?), selection color, focus
+   states, print stylesheet would be a nice nod to a printed guide.
+7. Keep it fast: no new heavy dependencies; system-respecting dark text on
+   cream must pass WCAG AA contrast.
+
+## HARD RULES — do not break these
+- Do NOT change any content, listings data, prices, bus times, or FAQ text.
+- Do NOT touch the data layer logic: src/lib/listingsSource.js, the approval
+  gate (approved:false listings must never render), src/config.js, or the
+  Google Sheets CSV fallback behaviour.
+- PRIVACY: never add personal phone numbers. One listing (a Vlora braider)
+  is deliberately number-free in code — her number must never appear in this
+  repo. Only business contacts already in the data may be shown.
+- Do NOT change vite.config.js base handling or .github/workflows/deploy.yml
+  (GitHub Pages deploy depends on them).
+- Keep everything one page (no router), keep it mobile-first, and keep the
+  build passing: `npm run build` must succeed when you are done.
+- When finished, summarise what you changed file-by-file in under 200 words,
+  and flag anything you wanted to change but didn't because of the rules.

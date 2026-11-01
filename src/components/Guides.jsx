@@ -1,1 +1,79 @@
-aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCcKaW1wb3J0IHsgQlVTX0NIRUNLRUQsIGJ1c1JvdXRlcywgYnVzSG93SXRXb3JrcywgaG91c2luZ0d1aWRlLCBoYWlyR3VpZGUgfSBmcm9tICcuLi9kYXRhL2d1aWRlcycKCmZ1bmN0aW9uIFRpbWVzKHsgdmFsdWUgfSkgewogIGNvbnN0IHBhcnRzID0gdmFsdWUuc3BsaXQoJ8K3JykubWFwKChzKSA9PiBzLnRyaW0oKSkKICBjb25zdCBhbGxUaW1lcyA9IHBhcnRzLmxlbmd0aCA+IDEgJiYgcGFydHMuZXZlcnkoKHApID0+IC9eXGR7MSwyfTpcZHsyfSQvLnRlc3QocCkpCiAgaWYgKCFhbGxUaW1lcykgcmV0dXJuIDw+e3ZhbHVlfTwvPgogIHJldHVybiAoCiAgICA8c3BhbiBjbGFzc05hbWU9InRpbWUtY2hpcHMiPgogICAgICB7cGFydHMubWFwKCh0KSA9PiAoCiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0aW1lLWNoaXAiIGtleT17dH0+e3R9PC9zcGFuPgogICAgICApKX0KICAgIDwvc3Bhbj4KICApCn0KCmZ1bmN0aW9uIEJ1c0d1aWRlKCkgewogIGNvbnN0IFtvcGVuLCBzZXRPcGVuXSA9IHVzZVN0YXRlKHRydWUpCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmYXEtaXRlbSI+CiAgICAgIDxidXR0b24gY2xhc3NOYW1lPSJmYXEtcSIgb25DbGljaz17KCkgPT4gc2V0T3Blbighb3Blbil9IGFyaWEtZXhwYW5kZWQ9e29wZW59PgogICAgICAgIDxzcGFuPjxzcGFuIGNsYXNzTmFtZT0iY2hhcC1udW0iPjAxPC9zcGFuPiBCdXMgU2NoZWR1bGUgR3VpZGU8L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJmYXEtYXJyb3ciPntvcGVuID8gJ+KIkicgOiAnKyd9PC9zcGFuPgogICAgICA8L2J1dHRvbj4KICAgICAge29wZW4gJiYgKAogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmYXEtYSI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im1ldGEiPntCVVNfQ0hFQ0tFRH0uIFNvdXJjZXM6IFRpcmFuYSBBaXJwb3J0J3MgcHVibGlzaGVkIGJ1cyBsaXN0ICsgR2ppcmFmYSBUcmF2ZWwgYm9va2luZyBwYWdlcy4gV2hlcmUgdGhleSBkaXNhZ3JlZWQsIHRoaXMgZ3VpZGUgc2F5cyBzby48L3A+CiAgICAgICAgICB7YnVzUm91dGVzLm1hcCgocikgPT4gKAogICAgICAgICAgICA8ZGl2IGtleT17ci5yb3V0ZX0gY2xhc3NOYW1lPSJyb3V0ZSI+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJyb3V0ZS1uYW1lIj57ci5yb3V0ZX08L3A+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJyb3V0ZS1saW5lIj48c3Ryb25nPlRpbWVzOjwvc3Ryb25nPiA8VGltZXMgdmFsdWU9e3IudGltZXN9IC8+PC9wPgogICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0icm91dGUtbGluZSI+PHN0cm9uZz5SaWRlOjwvc3Ryb25nPiB7ci5kdXJhdGlvbn0gwrcgPHN0cm9uZz5QcmljZTo8L3N0cm9uZz4ge3IucHJpY2V9IMK3IHtyLm9wZXJhdG9yfTwvcD4KICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9InJvdXRlLW5vdGVzIj57ci5ub3Rlc308L3A+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKSl9CiAgICAgICAgICA8cCBjbGFzc05hbWU9Imd1aWRlLWgiPkhvdyBidXNlcyB3b3JrIGhlcmU8L3A+CiAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJndWlkZS1saXN0Ij4KICAgICAgICAgICAge2J1c0hvd0l0V29ya3MubWFwKCh0KSA9PiA8bGkga2V5PXt0fT57dH08L2xpPil9CiAgICAgICAgICA8L3VsPgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9kaXY+CiAgKQp9CgpmdW5jdGlvbiBUZXh0R3VpZGUoeyBpY29uLCBudW0sIGd1aWRlIH0pIHsKICBjb25zdCBbb3Blbiwgc2V0T3Blbl0gPSB1c2VTdGF0ZShmYWxzZSkKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9ImZhcS1pdGVtIj4KICAgICAgPGJ1dHRvbiBjbGFzc05hbWU9ImZhcS1xIiBvbkNsaWNrPXsoKSA9PiBzZXRPcGVuKCFvcGVuKX0gYXJpYS1leHBhbmRlZD17b3Blbn0+CiAgICAgICAgPHNwYW4+PHNwYW4gY2xhc3NOYW1lPSJjaGFwLW51bSI+e1N0cmluZyhudW0pLnBhZFN0YXJ0KDIsICcwJyl9PC9zcGFuPiB7Z3VpZGUudGl0bGV9PC9zcGFuPgogICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZmFxLWFycm93Ij57b3BlbiA/ICfiiJInIDogJysnfTwvc3Bhbj4KICAgICAgPC9idXR0b24+CiAgICAgIHtvcGVuICYmICgKICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmFxLWEiPgogICAgICAgICAgPHA+e2d1aWRlLmludHJvfTwvcD4KICAgICAgICAgIHtndWlkZS5zZWN0aW9ucy5tYXAoKHMpID0+ICgKICAgICAgICAgICAgPGRpdiBrZXk9e3MuaH0+CiAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJndWlkZS1oIj57cy5ofTwvcD4KICAgICAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJndWlkZS1saXN0Ij4KICAgICAgICAgICAgICAgIHtzLnBvaW50cy5tYXAoKHQpID0+IDxsaSBrZXk9e3R9Pnt0fTwvbGk+KX0KICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9kaXY+CiAgKQp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBHdWlkZXMoKSB7CiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJmYXEtbGlzdCI+CiAgICAgIDxCdXNHdWlkZSAvPgogICAgICA8VGV4dEd1aWRlIGljb249IvCfj6AiIG51bT17Mn0gZ3VpZGU9e2hvdXNpbmdHdWlkZX0gLz4KICAgICAgPFRleHRHdWlkZSBpY29uPSLwn5KH8J+PviIgbnVtPXszfSBndWlkZT17aGFpckd1aWRlfSAvPgogICAgPC9kaXY+CiAgKQp9Cg==
+import { useState } from 'react'
+import { BUS_CHECKED, busRoutes, busHowItWorks, housingGuide, hairGuide } from '../data/guides'
+
+function Times({ value }) {
+  const parts = value.split('·').map((s) => s.trim())
+  const allTimes = parts.length > 1 && parts.every((p) => /^\d{1,2}:\d{2}$/.test(p))
+  if (!allTimes) return <>{value}</>
+  return (
+    <span className="time-chips">
+      {parts.map((t) => (
+        <span className="time-chip" key={t}>{t}</span>
+      ))}
+    </span>
+  )
+}
+
+function BusGuide() {
+  const [open, setOpen] = useState(true)
+  return (
+    <div className="faq-item">
+      <button className="faq-q" onClick={() => setOpen(!open)} aria-expanded={open}>
+        <span><span className="chap-num">01</span> Bus Schedule Guide</span>
+        <span className="faq-arrow">{open ? '−' : '+'}</span>
+      </button>
+      {open && (
+        <div className="faq-a">
+          <p className="meta">{BUS_CHECKED}. Sources: Tirana Airport's published bus list + Gjirafa Travel booking pages. Where they disagreed, this guide says so.</p>
+          {busRoutes.map((r) => (
+            <div key={r.route} className="route">
+              <p className="route-name">{r.route}</p>
+              <p className="route-line"><strong>Times:</strong> <Times value={r.times} /></p>
+              <p className="route-line"><strong>Ride:</strong> {r.duration} · <strong>Price:</strong> {r.price} · {r.operator}</p>
+              <p className="route-notes">{r.notes}</p>
+            </div>
+          ))}
+          <p className="guide-h">How buses work here</p>
+          <ul className="guide-list">
+            {busHowItWorks.map((t) => <li key={t}>{t}</li>)}
+          </ul>
+        </div>
+      )}
+    </div>
+  )
+}
+
+function TextGuide({ icon, num, guide }) {
+  const [open, setOpen] = useState(false)
+  return (
+    <div className="faq-item">
+      <button className="faq-q" onClick={() => setOpen(!open)} aria-expanded={open}>
+        <span><span className="chap-num">{String(num).padStart(2, '0')}</span> {guide.title}</span>
+        <span className="faq-arrow">{open ? '−' : '+'}</span>
+      </button>
+      {open && (
+        <div className="faq-a">
+          <p>{guide.intro}</p>
+          {guide.sections.map((s) => (
+            <div key={s.h}>
+              <p className="guide-h">{s.h}</p>
+              <ul className="guide-list">
+                {s.points.map((t) => <li key={t}>{t}</li>)}
+              </ul>
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
+
+export default function Guides() {
+  return (
+    <div className="faq-list">
+      <BusGuide />
+      <TextGuide icon="🏠" num={2} guide={housingGuide} />
+      <TextGuide icon="💇🏾" num={3} guide={hairGuide} />
+    </div>
+  )
+}

@@ -1,1 +1,5 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjYwIiBoZWlnaHQ9IjYwIiByeD0iMTAiIGZpbGw9IiMxNzM1MkEiLz4KICA8cmVjdCB4PSI3IiB5PSI3IiB3aWR0aD0iNTAiIGhlaWdodD0iNTAiIHJ4PSI3IiBmaWxsPSJub25lIiBzdHJva2U9IiNDMTlBM0QiIHN0cm9rZS13aWR0aD0iMiIvPgogIDx0ZXh0IHg9IjMyIiB5PSI0NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIzNCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0MxOUEzRCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+QjwvdGV4dD4KPC9zdmc+Cg==
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="2" y="2" width="60" height="60" rx="10" fill="#17352A"/>
+  <rect x="7" y="7" width="50" height="50" rx="7" fill="none" stroke="#C19A3D" stroke-width="2"/>
+  <text x="32" y="45" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#C19A3D" text-anchor="middle">B</text>
+</svg>

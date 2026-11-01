@@ -1,1 +1,172 @@
-aW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VNZW1vLCB1c2VTdGF0ZSB9IGZyb20gJ3JlYWN0JwppbXBvcnQgTGlzdGluZ0NhcmQgZnJvbSAnLi9jb21wb25lbnRzL0xpc3RpbmdDYXJkJwppbXBvcnQgRmFxSXRlbSBmcm9tICcuL2NvbXBvbmVudHMvRmFxSXRlbScKaW1wb3J0IEd1aWRlcyBmcm9tICcuL2NvbXBvbmVudHMvR3VpZGVzJwppbXBvcnQgeyBsb2FkTGlzdGluZ3MgfSBmcm9tICcuL2xpYi9saXN0aW5nc1NvdXJjZScKaW1wb3J0IHsgZmFxcyB9IGZyb20gJy4vZGF0YS9mYXFzJwppbXBvcnQgeyBHRVRfTElTVEVEX0ZPUk1fVVJMLCBDT01NVU5JVFlfTkFNRSB9IGZyb20gJy4vY29uZmlnJwppbXBvcnQgJy4vaW5kZXguY3NzJwoKZnVuY3Rpb24gQ292ZXJBcnQoKSB7CiAgcmV0dXJuICgKICAgIDxzdmcgY2xhc3NOYW1lPSJjb3Zlci1hcnQiIHZpZXdCb3g9IjAgMCAzMjAgNzIiIGFyaWEtaGlkZGVuPSJ0cnVlIiBmb2N1c2FibGU9ImZhbHNlIj4KICAgICAgPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjQzE5QTNEIiBzdHJva2VXaWR0aD0iMiIgc3Ryb2tlTGluZWNhcD0icm91bmQiPgogICAgICAgIDxjaXJjbGUgY3g9IjE2MCIgY3k9IjI2IiByPSIxMSIgLz4KICAgICAgICA8cGF0aCBkPSJNMTYwIDZ2Nk0xNjAgNDB2Nk0xNDAgMjZoLTZNMTg2IDI2aC02TTE0NiAxMmw0IDRNMTc0IDEybC00IDQiIHN0cm9rZVdpZHRoPSIxLjYiIC8+CiAgICAgICAgPHBhdGggZD0iTTggNTIgTDc0IDIyIEwxMTggNDQgTDE2OCAxNiBMMjI2IDQyIEwyNjggMjYgTDMxMiA1MCIgLz4KICAgICAgICA8cGF0aCBkPSJNOCA2MiBxMTQtNyAyOCAwIHQyOCAwIHQyOCAwIHQyOCAwIHQyOCAwIHQyOCAwIHQyOCAwIHQyOCAwIHQyOCAwIHQyOCAwIiBzdHJva2VXaWR0aD0iMS42IiAvPgogICAgICA8L2c+CiAgICA8L3N2Zz4KICApCn0KCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEFwcCgpIHsKICBjb25zdCBbbGlzdGluZ3MsIHNldExpc3RpbmdzXSA9IHVzZVN0YXRlKFtdKQogIGNvbnN0IFtzb3VyY2UsIHNldFNvdXJjZV0gPSB1c2VTdGF0ZSgnbG9hZGluZycpCiAgY29uc3QgW3F1ZXJ5LCBzZXRRdWVyeV0gPSB1c2VTdGF0ZSgnJykKICBjb25zdCBbY2l0eSwgc2V0Q2l0eV0gPSB1c2VTdGF0ZSgnQWxsIGNpdGllcycpCiAgY29uc3QgW2NhdGVnb3J5LCBzZXRDYXRlZ29yeV0gPSB1c2VTdGF0ZSgnQWxsIGNhdGVnb3JpZXMnKQoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgbG9hZExpc3RpbmdzKCkudGhlbigoeyBsaXN0aW5ncywgc291cmNlIH0pID0+IHsKICAgICAgc2V0TGlzdGluZ3MobGlzdGluZ3MpCiAgICAgIHNldFNvdXJjZShzb3VyY2UpCiAgICB9KQogIH0sIFtdKQoKICBjb25zdCBjaXRpZXMgPSB1c2VNZW1vKAogICAgKCkgPT4gWydBbGwgY2l0aWVzJywgLi4ubmV3IFNldChsaXN0aW5ncy5tYXAoKGwpID0+IGwuY2l0eSkpXSwKICAgIFtsaXN0aW5nc10KICApCiAgY29uc3QgY2F0ZWdvcmllcyA9IHVzZU1lbW8oCiAgICAoKSA9PiBbJ0FsbCBjYXRlZ29yaWVzJywgLi4ubmV3IFNldChsaXN0aW5ncy5tYXAoKGwpID0+IGwuY2F0ZWdvcnkpKV0sCiAgICBbbGlzdGluZ3NdCiAgKQoKICBjb25zdCByZXN1bHRzID0gdXNlTWVtbygoKSA9PiB7CiAgICBjb25zdCBxID0gcXVlcnkudHJpbSgpLnRvTG93ZXJDYXNlKCkKICAgIHJldHVybiBsaXN0aW5ncy5maWx0ZXIoKGwpID0+IHsKICAgICAgaWYgKGNpdHkgIT09ICdBbGwgY2l0aWVzJyAmJiBsLmNpdHkgIT09IGNpdHkpIHJldHVybiBmYWxzZQogICAgICBpZiAoY2F0ZWdvcnkgIT09ICdBbGwgY2F0ZWdvcmllcycgJiYgbC5jYXRlZ29yeSAhPT0gY2F0ZWdvcnkpIHJldHVybiBmYWxzZQogICAgICBpZiAoIXEpIHJldHVybiB0cnVlCiAgICAgIHJldHVybiBbbC5uYW1lLCBsLmNhdGVnb3J5LCBsLmNpdHksIGwuZGVzY3JpcHRpb25dCiAgICAgICAgLmpvaW4oJyAnKQogICAgICAgIC50b0xvd2VyQ2FzZSgpCiAgICAgICAgLmluY2x1ZGVzKHEpCiAgICB9KQogIH0sIFtsaXN0aW5ncywgcXVlcnksIGNpdHksIGNhdGVnb3J5XSkKCiAgcmV0dXJuICgKICAgIDxkaXYgY2xhc3NOYW1lPSJwYWdlIj4KICAgICAgPGhlYWRlciBjbGFzc05hbWU9Imhlcm8iPgogICAgICAgIDxkaXYgY2xhc3NOYW1lPSJoZXJvLWZyYW1lIj4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ia2lja2VyIj57Q09NTVVOSVRZX05BTUV9IHByZXNlbnRzPC9wPgogICAgICAgICAgPENvdmVyQXJ0IC8+CiAgICAgICAgICA8aDE+QmxhY2sgaW4gQWxiYW5pYTwvaDE+CiAgICAgICAgICA8cCBjbGFzc05hbWU9InN1YiI+VGhlIEd1aWRlICZhbXA7IERpcmVjdG9yeTwvcD4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0iZWRpdGlvbiI+MjAyNiBFZGl0aW9uIMK3IFZsb3JhIMK3IFRpcmFuYSDCtyBTYXJhbmRhIMK3IFNoa29kw6tyPC9zcGFuPgogICAgICAgICAgPHAgY2xhc3NOYW1lPSJsZWRlIj4KICAgICAgICAgICAgVGhlIHNlcnZpY2VzIG91ciBjb21tdW5pdHkgYWN0dWFsbHkgdXNlcyDigJQgaGFpciwgaGVhbHRoLCBkcml2ZXJzLCBob3VzaW5nCiAgICAgICAgICAgIGhlbHAgYW5kIEJsYWNrLW93bmVkIGJ1c2luZXNzZXMg4oCUIGZvdW5kIGluIDMwIHNlY29uZHMsIGNvbnRhY3RlZCBpbiBvbmUgdGFwLgogICAgICAgICAgICBCdWlsdCBmcm9tIG91ciBvd24gZ3JvdXAgY2hhdHMsIHdoZXJlIHRoZSBzYW1lIHF1ZXN0aW9ucyB3ZXJlIGFza2VkIGZvcgogICAgICAgICAgICBlaWdodCBtb250aHMgYmVjYXVzZSB0aGUgYW5zd2VycyBrZXB0IHNjcm9sbGluZyBhd2F5LgogICAgICAgICAgPC9wPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Imhlcm8tYWN0aW9ucyI+CiAgICAgICAgICAgIHtHRVRfTElTVEVEX0ZPUk1fVVJMID8gKAogICAgICAgICAgICAgIDxhIGNsYXNzTmFtZT0iYnRuIGJ0bi1nb2xkIiBocmVmPXtHRVRfTElTVEVEX0ZPUk1fVVJMfSB0YXJnZXQ9Il9ibGFuayIgcmVsPSJub3JlZmVycmVyIj4KICAgICAgICAgICAgICAgIEdldCBsaXN0ZWQg4oCUIGZyZWUKICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJiYWRnZSBiYWRnZS1nb2xkIj5HZXQgTGlzdGVkIG9wZW5zIGF0IGxhdW5jaCDigJQgYXNrIGluIHRoZSBncm91cDwvc3Bhbj4KICAgICAgICAgICAgKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICA8L2hlYWRlcj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJ0cnVzdCIgYXJpYS1sYWJlbD0iQWJvdXQgdGhpcyBndWlkZSI+CiAgICAgICAgPGRpdj48c3Ryb25nPntsaXN0aW5ncy5sZW5ndGh9PC9zdHJvbmc+PHNwYW4+bWVtYmVyLXZvdWNoZWQgbGlzdGluZ3M8L3NwYW4+PC9kaXY+CiAgICAgICAgPGRpdj48c3Ryb25nPntNYXRoLm1heChjaXRpZXMubGVuZ3RoIC0gMSwgMCl9PC9zdHJvbmc+PHNwYW4+Y2l0aWVzIGNvdmVyZWQ8L3NwYW4+PC9kaXY+CiAgICAgICAgPGRpdj48c3Ryb25nPjM8L3N0cm9uZz48c3Bhbj5ndWlkZSBjaGFwdGVyczwvc3Bhbj48L2Rpdj4KICAgICAgICA8ZGl2PjxzdHJvbmc+MSBOb3YgMjAyNjwvc3Ryb25nPjxzcGFuPmJ1cyB0aW1lcyBsYXN0IGNoZWNrZWQ8L3NwYW4+PC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgPG1haW4+CiAgICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJwYW5lbCI+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iY29udHJvbHMiPgogICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICB0eXBlPSJzZWFyY2giCiAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlNlYXJjaDogYnJhaWRzLCBkZW50aXN0LCB0YXhp4oCmIgogICAgICAgICAgICAgIHZhbHVlPXtxdWVyeX0KICAgICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldFF1ZXJ5KGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICBhcmlhLWxhYmVsPSJTZWFyY2ggbGlzdGluZ3MiCiAgICAgICAgICAgIC8+CiAgICAgICAgICAgIDxzZWxlY3QgdmFsdWU9e2NpdHl9IG9uQ2hhbmdlPXsoZSkgPT4gc2V0Q2l0eShlLnRhcmdldC52YWx1ZSl9IGFyaWEtbGFiZWw9IkZpbHRlciBieSBjaXR5Ij4KICAgICAgICAgICAgICB7Y2l0aWVzLm1hcCgoYykgPT4gKAogICAgICAgICAgICAgICAgPG9wdGlvbiBrZXk9e2N9PntjfTwvb3B0aW9uPgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNoaXBzIiByb2xlPSJncm91cCIgYXJpYS1sYWJlbD0iRmlsdGVyIGJ5IGNhdGVnb3J5Ij4KICAgICAgICAgICAge2NhdGVnb3JpZXMubWFwKChjKSA9PiAoCiAgICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAga2V5PXtjfQogICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjYXRlZ29yeSA9PT0gYyA/ICdjaGlwIG9uJyA6ICdjaGlwJ30KICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldENhdGVnb3J5KGMpfQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIHtjID09PSAnQWxsIGNhdGVnb3JpZXMnID8gJ0FsbCcgOiBjfQogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHtzb3VyY2UgPT09ICdsb2FkaW5nJyAmJiA8cCBjbGFzc05hbWU9ImVtcHR5Ij5Mb2FkaW5nIHRoZSBkaXJlY3RvcnnigKY8L3A+fQogICAgICAgICAge3NvdXJjZSAhPT0gJ2xvYWRpbmcnICYmIHJlc3VsdHMubGVuZ3RoID09PSAwICYmICgKICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJlbXB0eSI+CiAgICAgICAgICAgICAgTm8gdmVyaWZpZWQgbGlzdGluZyB5ZXQgZm9yIHRoYXQgc2VhcmNoLiBBc2sgaW4gdGhlIFdoYXRzQXBwIGdyb3VwIOKAlAogICAgICAgICAgICAgIGFuZCBpZiB5b3Ugb2ZmZXIgdGhpcyBzZXJ2aWNlLCBnZXQgbGlzdGVkIHNvIHRoZSBuZXh0IHBlcnNvbiBmaW5kcyB5b3UgaGVyZS4KICAgICAgICAgICAgPC9wPgogICAgICAgICAgKX0KICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJncmlkIj4KICAgICAgICAgICAge3Jlc3VsdHMubWFwKChsKSA9PiAoCiAgICAgICAgICAgICAgPExpc3RpbmdDYXJkIGtleT17bC5pZH0gbGlzdGluZz17bH0gLz4KICAgICAgICAgICAgKSl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L3NlY3Rpb24+CgogICAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icGFuZWwiPgogICAgICAgICAgPGgyPkd1aWRlczwvaDI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9ImxlZGUtc20iPgogICAgICAgICAgICBCdWlsdCBpbiB0aGUgb3JkZXIgdGhlIGNvbW11bml0eSBhc2tlZCBmb3I6IGJ1c2VzIGZpcnN0LCB0aGVuIGhvdXNpbmcsCiAgICAgICAgICAgIHRoZW4gaGFpci4KICAgICAgICAgIDwvcD4KICAgICAgICAgIDxHdWlkZXMgLz4KICAgICAgICA8L3NlY3Rpb24+CgogICAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0icGFuZWwiPgogICAgICAgICAgPGgyPktub3cgYmVmb3JlIHlvdSBnbzwvaDI+CiAgICAgICAgICA8cCBjbGFzc05hbWU9ImxlZGUtc20iPgogICAgICAgICAgICBUaGUgcXVlc3Rpb25zIHRoaXMgY29tbXVuaXR5IGFza2VkIG92ZXIgYW5kIG92ZXIsIGFuc3dlcmVkIG9uY2Ug4oCUIGZyb20KICAgICAgICAgICAgbWVtYmVycyB3aG8gbGVhcm5lZCBpdCB0aGUgaGFyZCB3YXkuCiAgICAgICAgICA8L3A+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iZmFxLWxpc3QiPgogICAgICAgICAgICB7ZmFxcy5tYXAoKGYpID0+ICgKICAgICAgICAgICAgICA8RmFxSXRlbSBrZXk9e2YucX0gZmFxPXtmfSAvPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvc2VjdGlvbj4KICAgICAgPC9tYWluPgoKICAgICAgPGZvb3Rlcj4KICAgICAgICA8cCBjbGFzc05hbWU9Imhlcml0YWdlIj4KICAgICAgICAgIEluIHRoZSB0cmFkaXRpb24gb2YgVGhlIEdyZWVuIEJvb2sgKDE5MzbigJMxOTY3KSDigJQgdGhlIGd1aWRlIEJsYWNrIHRyYXZlbGxlcnMKICAgICAgICAgIGNhcnJpZWQgc28gdGhleSBjb3VsZCBnbyBhbnl3aGVyZSwgc2FmZWx5LiBUaGlzIGlzIG91cnMsIGZvciBBbGJhbmlhLgogICAgICAgIDwvcD4KICAgICAgICA8cD4KICAgICAgICAgIEJ1aWx0IGJ5IHRoZSB7Q09NTVVOSVRZX05BTUV9IGNvbW11bml0eS4gTGlzdGluZ3MgYXJlIG1lbWJlci12b3VjaGVkLCBub3QKICAgICAgICAgIHBhaWQgYWRzIOKAlCBhIGxpc3Rpbmcgb25seSBhcHBlYXJzIGFmdGVyIGEgbWVtYmVyIHZvdWNoZXMgZm9yIGl0IGFuZCB0aGUKICAgICAgICAgIHByb3ZpZGVyIHNheXMgeWVzLiBXcm9uZyBpbmZvIG9yIGEgYmFkIGV4cGVyaWVuY2U/IFRlbGwgYW4gYWRtaW4gaW4gdGhlIGdyb3VwLgogICAgICAgIDwvcD4KICAgICAgICA8cCBjbGFzc05hbWU9Im1ldGEiPldlIGJ1eSBCbGFjayBmaXJzdCB3aGVuIHdlIGNhbi4g4pyK8J+PvjwvcD4KICAgICAgPC9mb290ZXI+CiAgICA8L2Rpdj4KICApCn0K
+import { useEffect, useMemo, useState } from 'react'
+import ListingCard from './components/ListingCard'
+import FaqItem from './components/FaqItem'
+import Guides from './components/Guides'
+import { loadListings } from './lib/listingsSource'
+import { faqs } from './data/faqs'
+import { GET_LISTED_FORM_URL, COMMUNITY_NAME } from './config'
+import './index.css'
+
+function CoverArt() {
+  return (
+    <svg className="cover-art" viewBox="0 0 320 72" aria-hidden="true" focusable="false">
+      <g fill="none" stroke="#C19A3D" strokeWidth="2" strokeLinecap="round">
+        <circle cx="160" cy="26" r="11" />
+        <path d="M160 6v6M160 40v6M140 26h-6M186 26h-6M146 12l4 4M174 12l-4 4" strokeWidth="1.6" />
+        <path d="M8 52 L74 22 L118 44 L168 16 L226 42 L268 26 L312 50" />
+        <path d="M8 62 q14-7 28 0 t28 0 t28 0 t28 0 t28 0 t28 0 t28 0 t28 0 t28 0 t28 0" strokeWidth="1.6" />
+      </g>
+    </svg>
+  )
+}
+
+export default function App() {
+  const [listings, setListings] = useState([])
+  const [source, setSource] = useState('loading')
+  const [query, setQuery] = useState('')
+  const [city, setCity] = useState('All cities')
+  const [category, setCategory] = useState('All categories')
+
+  useEffect(() => {
+    loadListings().then(({ listings, source }) => {
+      setListings(listings)
+      setSource(source)
+    })
+  }, [])
+
+  const cities = useMemo(
+    () => ['All cities', ...new Set(listings.map((l) => l.city))],
+    [listings]
+  )
+  const categories = useMemo(
+    () => ['All categories', ...new Set(listings.map((l) => l.category))],
+    [listings]
+  )
+
+  const results = useMemo(() => {
+    const q = query.trim().toLowerCase()
+    return listings.filter((l) => {
+      if (city !== 'All cities' && l.city !== city) return false
+      if (category !== 'All categories' && l.category !== category) return false
+      if (!q) return true
+      return [l.name, l.category, l.city, l.description]
+        .join(' ')
+        .toLowerCase()
+        .includes(q)
+    })
+  }, [listings, query, city, category])
+
+  return (
+    <div className="page">
+      <header className="hero">
+        <div className="hero-frame">
+          <p className="kicker">{COMMUNITY_NAME} presents</p>
+          <CoverArt />
+          <h1>Black in Albania</h1>
+          <p className="sub">The Guide &amp; Directory</p>
+          <span className="edition">2026 Edition · Vlora · Tirana · Saranda · Shkodër</span>
+          <p className="lede">
+            The services our community actually uses — hair, health, drivers, housing
+            help and Black-owned businesses — found in 30 seconds, contacted in one tap.
+            Built from our own group chats, where the same questions were asked for
+            eight months because the answers kept scrolling away.
+          </p>
+          <div className="hero-actions">
+            {GET_LISTED_FORM_URL ? (
+              <a className="btn btn-gold" href={GET_LISTED_FORM_URL} target="_blank" rel="noreferrer">
+                Get listed — free
+              </a>
+            ) : (
+              <span className="badge badge-gold">Get Listed opens at launch — ask in the group</span>
+            )}
+          </div>
+        </div>
+      </header>
+
+      <div className="trust" aria-label="About this guide">
+        <div><strong>{listings.length}</strong><span>member-vouched listings</span></div>
+        <div><strong>{Math.max(cities.length - 1, 0)}</strong><span>cities covered</span></div>
+        <div><strong>3</strong><span>guide chapters</span></div>
+        <div><strong>1 Nov 2026</strong><span>bus times last checked</span></div>
+      </div>
+
+      <main>
+        <section className="panel">
+          <div className="controls">
+            <input
+              type="search"
+              placeholder="Search: braids, dentist, taxi…"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              aria-label="Search listings"
+            />
+            <select value={city} onChange={(e) => setCity(e.target.value)} aria-label="Filter by city">
+              {cities.map((c) => (
+                <option key={c}>{c}</option>
+              ))}
+            </select>
+          </div>
+          <div className="chips" role="group" aria-label="Filter by category">
+            {categories.map((c) => (
+              <button
+                key={c}
+                className={category === c ? 'chip on' : 'chip'}
+                onClick={() => setCategory(c)}
+              >
+                {c === 'All categories' ? 'All' : c}
+              </button>
+            ))}
+          </div>
+
+          {source === 'loading' && <p className="empty">Loading the directory…</p>}
+          {source !== 'loading' && results.length === 0 && (
+            <p className="empty">
+              No verified listing yet for that search. Ask in the WhatsApp group —
+              and if you offer this service, get listed so the next person finds you here.
+            </p>
+          )}
+          <div className="grid">
+            {results.map((l) => (
+              <ListingCard key={l.id} listing={l} />
+            ))}
+          </div>
+        </section>
+
+        <section className="panel">
+          <h2>Guides</h2>
+          <p className="lede-sm">
+            Built in the order the community asked for: buses first, then housing,
+            then hair.
+          </p>
+          <Guides />
+        </section>
+
+        <section className="panel">
+          <h2>Know before you go</h2>
+          <p className="lede-sm">
+            The questions this community asked over and over, answered once — from
+            members who learned it the hard way.
+          </p>
+          <div className="faq-list">
+            {faqs.map((f) => (
+              <FaqItem key={f.q} faq={f} />
+            ))}
+          </div>
+        </section>
+      </main>
+
+      <footer>
+        <p className="heritage">
+          In the tradition of The Green Book (1936–1967) — the guide Black travellers
+          carried so they could go anywhere, safely. This is ours, for Albania.
+        </p>
+        <p>
+          Built by the {COMMUNITY_NAME} community. Listings are member-vouched, not
+          paid ads — a listing only appears after a member vouches for it and the
+          provider says yes. Wrong info or a bad experience? Tell an admin in the group.
+        </p>
+        <p className="meta">We buy Black first when we can. ✊🏾</p>
+      </footer>
+    </div>
+  )
+}

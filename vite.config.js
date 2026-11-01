@@ -1,1 +1,10 @@
-aW1wb3J0IHJlYWN0IGZyb20gJ0B2aXRlanMvcGx1Z2luLXJlYWN0JwppbXBvcnQgeyBkZWZpbmVDb25maWcgfSBmcm9tICd2aXRlJwoKLy8gaHR0cHM6Ly92aXRlLmRldi9jb25maWcvCmV4cG9ydCBkZWZhdWx0IGRlZmluZUNvbmZpZyh7CiAgcGx1Z2luczogW3JlYWN0KCldLAogIC8vIEdpdEh1YiBQYWdlcyBwcm9qZWN0IHNpdGVzIGFyZSBzZXJ2ZWQgZnJvbSAvPHJlcG8tbmFtZT4vLgogIC8vIFRoZSBkZXBsb3kgd29ya2Zsb3cgc2V0cyBCQVNFX1BBVEg9L2JsYWNrLWluLWFsYmFuaWEvIDsgbG9jYWwgZGV2IHVzZXMgLy4KICBiYXNlOiBwcm9jZXNzLmVudi5CQVNFX1BBVEggfHwgJy8nLAp9KQo=
+import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite'
+
+// https://vite.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  // GitHub Pages project sites are served from /<repo-name>/.
+  // The deploy workflow sets BASE_PATH=/black-in-albania/ ; local dev uses /.
+  base: process.env.BASE_PATH || '/',
+})
