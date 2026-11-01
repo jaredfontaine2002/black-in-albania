@@ -161,6 +161,25 @@ body {
 .guide-list { margin: 0 0 6px; padding-left: 20px; line-height: 1.6; }
 .guide-list li { margin-bottom: 6px; }
 
+/* ——— Flamurtari fixtures (Chapter 04) ——— */
+.game-next {
+  background: var(--paper-2); border: 1px solid var(--gold); border-radius: 8px;
+  padding: 10px 14px; margin: 2px 0 10px; line-height: 1.55;
+}
+.game-row {
+  display: flex; gap: 12px; align-items: baseline;
+  padding: 9px 0; border-top: 1px solid var(--border);
+}
+.game-date { min-width: 64px; font-weight: 700; color: var(--green); font-variant-numeric: tabular-nums; }
+.game-main { flex: 1; line-height: 1.5; }
+.game-teams { font-weight: 600; }
+.game-meta { color: var(--muted); font-size: 13.5px; }
+.game-row.past { opacity: 0.55; }
+.home-badge {
+  background: var(--gold); border-color: var(--gold); color: #241a04; font-weight: 700;
+  border-radius: 999px; padding: 2px 9px; font-size: 12px; white-space: nowrap;
+}
+
 footer { color: var(--muted); text-align: center; margin-top: 40px; line-height: 1.6; font-size: 14px; }
 footer .heritage { font-family: 'Fraunces', Georgia, serif; font-style: italic; color: var(--green); font-size: 15px; }
 footer .meta { margin-top: 8px; }

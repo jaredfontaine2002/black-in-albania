@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import ListingCard from './components/ListingCard'
 import FaqItem from './components/FaqItem'
 import Guides from './components/Guides'
+import GamesSection from './components/GamesSection'
 import { loadListings } from './lib/listingsSource'
 import { faqs } from './data/faqs'
 import { GET_LISTED_FORM_URL, COMMUNITY_NAME } from './config'
@@ -139,6 +140,16 @@ export default function App() {
             then hair.
           </p>
           <Guides />
+        </section>
+
+        <section className="panel">
+          <h2>Community</h2>
+          <p className="lede-sm">
+            Things worth leaving the house for — starting with Vlora's own team.
+          </p>
+          <div className="faq-list">
+            <GamesSection />
+          </div>
         </section>
 
         <section className="panel">

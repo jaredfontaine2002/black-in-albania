@@ -27,6 +27,7 @@ The community's WhatsApp groups held **478 questions** in eight months — the s
 - 🚌 **Chapter 01 · Bus Guide** — airport & intercity routes, times checked against live sources
 - 🏠 **Chapter 02 · Housing Guide** — the lease trap and the electricity scam, from real member stories
 - 💇🏾 **Chapter 03 · Hair Guide** — braiders, barbers, and the hair-product problem, solved
+- 🏀 **Flamurtari Fixtures** — Vlora's women's basketball team: all 20 regular-season games, home games marked, next home game up top
 - ❓ **Know Before You Go** — the repeating questions, answered once
 
 <img src="docs/screenshot-mobile.jpg" alt="Black in Albania — mobile view" width="300">
