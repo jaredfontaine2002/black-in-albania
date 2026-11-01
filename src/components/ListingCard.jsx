@@ -6,6 +6,7 @@ const CATEGORY_ICONS = {
   'Drivers & Transport': '🚕',
   'Food & Places': '☕',
   'Businesses & Tours': '🧭',
+  'Kids & Family': '🧸',
 }
 
 export default function ListingCard({ listing }) {
@@ -34,7 +35,7 @@ export default function ListingCard({ listing }) {
         )}
         {!wa && listing.url && (
           <a className="btn btn-web" href={listing.url} target="_blank" rel="noreferrer">
-            Visit website
+            {listing.url.includes('maps') ? 'View on Google Maps' : 'Visit website'}
           </a>
         )}
         {!wa && !listing.url && <span className="badge badge-rec">Member-recommended — ask in the group</span>}
