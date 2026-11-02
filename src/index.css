@@ -126,6 +126,7 @@ body {
 .badge-spot { background: var(--terra); border-color: var(--terra); color: #fff; font-weight: 700; white-space: nowrap; }
 .badge-gold { background: var(--gold); color: #241a04; font-weight: 700; padding: 8px 14px; border: none; }
 .badge-rec { background: transparent; border-style: dashed; color: var(--muted); }
+.badge-owned { background: var(--green); border-color: var(--green); color: var(--gold-soft); font-weight: 700; }
 .desc { line-height: 1.55; margin: 0; }
 .price { color: var(--terra); margin: 0; font-weight: 700; }
 .meta { color: var(--muted); font-size: 13px; margin: 0; }

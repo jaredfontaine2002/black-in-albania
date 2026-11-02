@@ -26,6 +26,22 @@ export const listings = [
     approved: true,
   },
   {
+    id: 'shahid-salaam-realtor',
+    name: 'Shahid A. Salaam — Realtor & Investor',
+    category: 'Housing & Real Estate',
+    city: 'Vlora',
+    description:
+      'Commercial & residential realtor and investor, partnered with a local realtor in Vlorë together with Denise. They help expats find short, mid and long-term rentals — plus purchases and investment properties — in Vlorë, Radhimë and Orikum. Multi-family, industrial and land too.',
+    priceRange: 'Rentals · Purchases · Investments',
+    whatsapp: '19132679256',
+    url: '',
+    vouchedBy: 'Jared (friend)',
+    verified: 'Nov 2026',
+    spotlight: false,
+    approved: true,
+    blackOwned: true,
+  },
+  {
     id: 'african-braid-shop-shkoder',
     name: 'African Braid Shop — Beauty Center',
     category: 'Hair & Beauty',

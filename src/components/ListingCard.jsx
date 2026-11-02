@@ -7,6 +7,7 @@ const CATEGORY_ICONS = {
   'Food & Places': '☕',
   'Businesses & Tours': '🧭',
   'Kids & Family': '🧸',
+  'Housing & Real Estate': '🏠',
 }
 
 export default function ListingCard({ listing }) {
@@ -21,6 +22,7 @@ export default function ListingCard({ listing }) {
         <span className="badge">{CATEGORY_ICONS[listing.category] ? `${CATEGORY_ICONS[listing.category]} ` : ''}{listing.category}</span>
         <span className="badge badge-city">{listing.city}</span>
         {listing.vouchedBy && <span className="badge badge-seal">✦ Vouched</span>}
+        {listing.blackOwned && <span className="badge badge-owned">✊🏾 Black-owned</span>}
       </p>
       <p className="desc">{listing.description}</p>
       {listing.priceRange && <p className="price">{listing.priceRange}</p>}
