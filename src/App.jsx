@@ -87,7 +87,7 @@ export default function App() {
       <div className="trust" aria-label="About this guide">
         <div><strong>{listings.length}</strong><span>member-vouched listings</span></div>
         <div><strong>{Math.max(cities.length - 1, 0)}</strong><span>cities covered</span></div>
-        <div><strong>3</strong><span>guide chapters</span></div>
+        <div><strong>4</strong><span>guide chapters</span></div>
         <div><strong>1 Nov 2026</strong><span>bus times last checked</span></div>
       </div>
 
@@ -137,7 +137,7 @@ export default function App() {
           <h2>Guides</h2>
           <p className="lede-sm">
             Built in the order the community asked for: buses first, then housing,
-            then hair.
+            then hair — and Temu, the one nobody warns you about.
           </p>
           <Guides />
         </section>

@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { BUS_CHECKED, busRoutes, busHowItWorks, housingGuide, hairGuide } from '../data/guides'
+import { BUS_CHECKED, busRoutes, busHowItWorks, housingGuide, hairGuide, temuGuide } from '../data/guides'
 
 function Times({ value }) {
   const parts = value.split('·').map((s) => s.trim())
@@ -74,6 +74,7 @@ export default function Guides() {
       <BusGuide />
       <TextGuide icon="🏠" num={2} guide={housingGuide} />
       <TextGuide icon="💇🏾" num={3} guide={hairGuide} />
+      <TextGuide icon="🛍️" num={4} guide={temuGuide} />
     </div>
   )
 }

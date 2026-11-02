@@ -27,7 +27,7 @@ export default function GamesSection() {
   return (
     <div className="faq-item">
       <button className="faq-q" onClick={() => setOpen(!open)} aria-expanded={open}>
-        <span><span className="chap-num">04</span> 🏀 Flamurtari — Girls' Basketball</span>
+        <span><span className="chap-num">05</span> 🏀 Flamurtari — Girls' Basketball</span>
         <span className="faq-arrow">{open ? '−' : '+'}</span>
       </button>
       {open && (
