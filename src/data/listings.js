@@ -49,7 +49,7 @@ export const listings = [
     description:
       "Clinician (MA, MSE, PsyD) and IFBB Pro Figure bodybuilder offering personal training and mental-skills coaching, based in the Sarandë area and travelling often. She works where physical performance meets mental wellbeing — body-positive, judgment-free coaching tailored to your goals, lifestyle and stage of life. Her mantra: meet people where they're at.",
     priceRange: 'Ask for a quote',
-    whatsapp: '',
+    whatsapp: '14047232104',
     url: '',
     vouchedBy: 'Jared',
     verified: 'Nov 2026',
