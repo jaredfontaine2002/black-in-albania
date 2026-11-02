@@ -137,7 +137,7 @@ export const hairGuide = {
       points: [
         'Tirana braid shop quote: €100 for 3 packs of Xpression pre-stretched braiding hair. US price: $5.99 a pack. Do not pay the panic price.',
         'Amazon International was the winner for one member: about $132 total for an order that cost $363 routed through family at home — and no customs hassle.',
-        'Customs bites online orders over €22 (the official duty-free line — see the Temu Guide below); Temu stays cheap but is slow. Greece and Bulgaria shopping runs are the other member route.',
+        'Temu and AliExpress come through with nothing extra to pay (see the Temu Guide below) — Temu is just slow. Customs can bite orders from other sellers; Greece and Bulgaria shopping runs are the other member route.',
         'Members travelling to London or the US sometimes carry product orders for the group — watch the Hair group and get on a run early.',
       ],
     },
@@ -147,7 +147,7 @@ export const hairGuide = {
 export const temuGuide = {
   title: 'Temu Guide — cheap stuff, picked up at the post office',
   intro:
-    'Members order half their lives on Temu — hair products, phone bits, household things you cannot find in Vlora. The one thing nobody warns you: it does not come to your door. Temu parcels are collected from Posta Shqiptare, the Albanian post. Here is the whole run, start to finish.',
+    'The community verdict is simple: buy from Temu — it is the best. The price you pay at checkout is the whole price: no customs bill, no pickup fee, nothing. The one thing nobody warns you: it does not come to your door. Temu parcels are collected from Posta Shqiptare, the Albanian post. Here is the whole run, start to finish.',
   sections: [
     {
       h: 'Ordering — set yourself up right',
@@ -155,7 +155,7 @@ export const temuGuide = {
         'Order in the Temu app or on temu.com and pay by card. Prices show in EUR at checkout.',
         'Address line that works: your FULL name exactly as on your ID, street + building, neighbourhood, city, postal code, Albania.',
         'Your PHONE NUMBER is the most important field — the post office calls or texts that number when the parcel lands. Use an Albanian number if you have one, and keep it switched on.',
-        'Keep each order under €22 in goods value: Albanian Customs lets online orders at or under €22 through duty-free. A €60 basket is better sent as three small orders than one big one.',
+        'Order the whole basket at once — there is no need to split orders small. Temu settles its tax side at checkout, so the customs line never lands on a Temu parcel (see "The money" below).',
       ],
     },
     {
@@ -167,6 +167,14 @@ export const temuGuide = {
       ],
     },
     {
+      h: 'The money — there is no extra money',
+      points: [
+        'No customs charge. No pickup fee. What you paid at checkout is everything — Jared’s own Temu orders (Jun 2026) arrived with €0 extra to pay, and AliExpress runs the same way in members’ experience.',
+        'Why you may hear otherwise: Albanian Customs law does have a €22 duty-free line for postal imports in general. Temu handles its side at checkout, so that line never shows up on a Temu parcel — do not split orders or pay anyone "customs" on one.',
+        'SCAM WARNING — Temu itself emails this with every order: if a message claims your package is being held for "unpaid customs duties" and asks you to pay a fee, it is fraud. Ignore it and check the status on Temu’s order page.',
+      ],
+    },
+    {
       h: 'Picking it up at Posta Shqiptare',
       points: [
         'You collect it yourself: expect an SMS or call from the post, or a paper notice in your mailbox, naming the post office holding your parcel (usually the one for your neighbourhood / postal code).',
@@ -174,7 +182,7 @@ export const temuGuide = {
         'Post offices mostly run Monday–Friday (some open Saturday morning). Mid-morning on a weekday is the calm window.',
         'No notice after tracking has said "arrived" for several days? Go in anyway with the tracking code and ask — parcels sit on the shelf waiting to be claimed all the time.',
         'Do not leave it sitting: unclaimed parcels are only held for a limited time before being returned to sender.',
-        'Carry small lek in cash — a small handling/customs charge can apply at the counter on some parcels, especially anything over the €22 line.',
+        'Nothing to pay at the counter for a Temu parcel — if anyone asks for a "customs fee," that is the scam from the section above.',
       ],
     },
     {
@@ -182,7 +190,7 @@ export const temuGuide = {
       points: [
         'Braiding hair and hair products are the classic order — a fraction of the Tirana panic price (see the Hair Guide). Phone accessories, kitchen bits, kids’ stuff and organisers are the other regulars.',
         'Quality is a lottery: read the buyer photos and reviews, size UP on clothes, and treat electronics as disposable-grade unless the reviews say otherwise.',
-        'Need it faster or it is over €22 anyway? Amazon International (pricier, quicker, customs handled at checkout) and the Greece/Bulgaria shopping runs are the community’s other routes.',
+        'Need it faster? Amazon International is pricier but quicker, and the Greece/Bulgaria shopping runs are the community’s other routes.',
       ],
     },
   ],

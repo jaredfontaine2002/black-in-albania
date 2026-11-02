@@ -27,7 +27,7 @@ The community's WhatsApp groups held **478 questions** in eight months — the s
 - 🚌 **Chapter 01 · Bus Guide** — airport & intercity routes, times checked against live sources
 - 🏠 **Chapter 02 · Housing Guide** — the lease trap and the electricity scam, from real member stories
 - 💇🏾 **Chapter 03 · Hair Guide** — braiders, barbers, and the hair-product problem, solved
-- 🛍️ **Temu Guide** — ordering under the €22 customs line, tracking, and picking the parcel up at Posta Shqiptare
+- 🛍️ **Temu Guide** — why the checkout price is the whole price (no customs, no pickup fee), tracking, the customs-fee scam warning, and collecting the parcel at Posta Shqiptare
 - 🏀 **Flamurtari Fixtures** — Vlora's women's basketball team: all 20 regular-season games, home games marked, next home game up top
 - ❓ **Know Before You Go** — the repeating questions, answered once
 
