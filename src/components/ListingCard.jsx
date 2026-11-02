@@ -24,6 +24,7 @@ export default function ListingCard({ listing }) {
         <span className="badge badge-city">{listing.city}</span>
         {listing.vouchedBy && <span className="badge badge-seal">✦ Vouched</span>}
         {listing.blackOwned && <span className="badge badge-owned">✊🏾 Black-owned</span>}
+        {listing.lgbtqFriendly && <span className="badge badge-friendly">🏳️‍🌈 LGBTQ+ friendly</span>}
       </p>
       <p className="desc">{listing.description}</p>
       {listing.priceRange && <p className="price">{listing.priceRange}</p>}

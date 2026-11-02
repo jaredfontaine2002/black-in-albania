@@ -24,6 +24,7 @@ export const listings = [
     verified: 'Oct 2026',
     spotlight: true,
     approved: true,
+    blackOwned: true,
   },
   {
     id: 'shahid-salaam-realtor',
@@ -56,6 +57,7 @@ export const listings = [
     spotlight: false,
     approved: true,
     blackOwned: true,
+    lgbtqFriendly: true,
   },
   {
     id: 'african-braid-shop-shkoder',
@@ -71,6 +73,7 @@ export const listings = [
     verified: 'Jun 2026',
     spotlight: true,
     approved: true,
+    blackOwned: true,
   },
   {
     id: 'braider-vlora-pending',
