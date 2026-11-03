@@ -7,7 +7,7 @@ export const events = [
     title: 'Thanksgiving Potluck',
     date: '2026-11-26',
     dateLabel: 'Thursday 26 Nov 2026',
-    timeLabel: 'Time to be confirmed — watch the group',
+    timeLabel: '3:30 PM',
     where: 'A member’s home, Vlora — address in the WhatsApp group',
     host: 'Hosted by a community member who stepped up on 3 Nov',
     blurb:
