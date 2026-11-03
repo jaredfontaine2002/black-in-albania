@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { BUS_CHECKED, busRoutes, busHowItWorks, housingGuide, hairGuide, temuGuide } from '../data/guides'
+import { BUS_CHECKED, busRoutes, gjirokasterBoard, busHowItWorks, housingGuide, hairGuide, temuGuide } from '../data/guides'
 
 function Times({ value }) {
   const parts = value.split('·').map((s) => s.trim())
@@ -31,6 +31,20 @@ function BusGuide() {
               <p className="route-line"><strong>Times:</strong> <Times value={r.times} /></p>
               <p className="route-line"><strong>Ride:</strong> {r.duration} · <strong>Price:</strong> {r.price} · {r.operator}</p>
               <p className="route-notes">{r.notes}</p>
+            </div>
+          ))}
+          <p className="guide-h">The Gjirokastër station board</p>
+          <p className="route-notes">{gjirokasterBoard.source}</p>
+          {gjirokasterBoard.groups.map((g) => (
+            <div key={g.h}>
+              <p className="guide-h">{g.h}</p>
+              {g.lines.map((l) => (
+                <div key={l.route} className="route">
+                  <p className="route-name">{l.route}</p>
+                  <p className="route-line"><strong>Times:</strong> {l.times}</p>
+                  <p className="route-line"><strong>Price:</strong> {l.price}{l.operator ? ` · ${l.operator}` : ''}</p>
+                </div>
+              ))}
             </div>
           ))}
           <p className="guide-h">How buses work here</p>

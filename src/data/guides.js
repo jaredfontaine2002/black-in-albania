@@ -64,6 +64,50 @@ export const busRoutes = [
   },
 ]
 
+// The Gjirokastër departure board — transcribed from a photo of the printed
+// board at Gjirokastër station, from Jared's Google Keep note "Bus schedule
+// Gjorekaster" (added 2026-11-03). The photo is undated and the board's
+// letter codes (A–K) are the stop letters on the companion "MAP TO BUS
+// STOPS" photo, not street names — confirm at the station the day before,
+// exactly like every other route in this guide.
+export const gjirokasterBoard = {
+  source:
+    'Copied from the printed board at Gjirokastër station (photo in Jared\'s Keep note, undated — treat times as a strong starting point, not a promise, and confirm the day before you travel). Stop letters A–K are the board\'s own bus-stop map.',
+  groups: [
+    {
+      h: 'From Gjirokastër — National',
+      lines: [
+        { route: 'Gjirokastër → Tirana', times: 'Stop B: 11:00 · 12:00 · 13:00 · 14:30 · 17:00 · 18:30; Stop C: 05:00 · 07:00 · 08:00 · 09:00 · 10:00', price: '1,000 lek' },
+        { route: 'Gjirokastër → Përmet', times: 'Stop A: 10:00 · 12:00 · 1:30 (printed as "1:30" — in context this likely means 13:30)', price: '500 lek' },
+        { route: 'Gjirokastër → Berat', times: 'Take any Tirana bus, transfer in Lushnjë to Berat', price: 'around 1,000 lek' },
+        { route: 'Gjirokastër → Saranda', times: 'Stop E — minibuses leave frequently in the morning but stop after 13:00; big buses at 07:00 · 08:00 · 09:00 · 10:00 · 11:00 · 12:00', price: '300 lek' },
+        { route: 'Gjirokastër → Himarë', times: 'First go to Saranda; transfers to Himarë leave at 10:00 · 11:30 · 13:00', price: 'around 800 lek' },
+        { route: 'Gjirokastër → Korçë', times: 'Stop C: 07:00 Monday, Wednesday, Friday ONLY. Alternative: take any Tirana bus, transfer in Firogozhine (spelling as printed) to Pogradec, then on to Korçë', price: '1,300 lek' },
+        { route: 'Gjirokastër → Durrës', times: 'Take a Tirana bus — it drives by Durrës', price: 'Ask on board' },
+        { route: 'Gjirokastër → Vlorë', times: 'Take any Tirana bus, get off in Levan to transfer', price: 'Ask on board' },
+      ],
+    },
+    {
+      h: 'From Gjirokastër — Regional',
+      lines: [
+        { route: 'Gjirokastër → Saraqinisht / Antigonea', times: 'Stop H: 06:45 there, 12:45 back', price: '200 lek' },
+        { route: 'Gjirokastër → Libohovë', times: 'Stop G: 07:00 · 09:00 · 13:30', price: '100 lek' },
+        { route: 'Gjirokastër → Derviçan / Hadrianopolis', times: 'Stop I: 09:00 · 09:45 · 10:00 · 10:45 · 11:45 · 12:00 · 12:45 · 13:00', price: '70 lek' },
+        { route: 'Gjirokastër → Zagoria', times: 'Stop K: 11:00, Monday, Wednesday, Friday only', price: 'Ask on board' },
+      ],
+    },
+    {
+      h: 'From Gjirokastër — International',
+      lines: [
+        { route: 'Gjirokastër → Ioannina, Greece', times: 'Stops J and F: 06:00', price: '€12', operator: 'Dropulli Tours and Lengo' },
+        { route: 'Gjirokastër → Athens, Greece', times: 'Stop F: 06:30 · 18:30', price: '€25', operator: 'Lengo Travel' },
+        { route: 'Gjirokastër → Thessaloniki / Kalambaka, Greece', times: 'Stop D: 06:45', price: 'Thessaloniki €30 · Kalambaka €20', operator: 'Crazy Holidays' },
+        { route: 'Gjirokastër → North Macedonia', times: 'No direct bus from Gjirokastër. Option 1: direct bus to Ohrid from Saranda (Senad Tours, getbybus, 11:30). Option 2: get to Korçë, short ride to Pogradec, bus or taxi to the border, walk across, then bus or taxi into Ohrid', price: 'Ask on board' },
+      ],
+    },
+  ],
+}
+
 export const busHowItWorks = [
   'Cash is king: pay the driver or conductor in lek. Cards are the exception, not the rule.',
   'Arrive 20–30 minutes early. On many routes there is no ticket office working ahead of time — your bag on a seat is your reservation.',
