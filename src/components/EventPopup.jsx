@@ -34,6 +34,7 @@ export default function EventPopup() {
       <div className="popup-card">
         <button className="popup-x" onClick={close} aria-label="Close">✕</button>
         <p className="popup-kicker">🎉 Coming up in the community</p>
+        {next.image && <img className="popup-img" src={next.image} alt={next.imageAlt || ''} />}
         <h3>{next.emoji} {next.title}</h3>
         <p className="popup-when"><strong>{next.dateLabel}</strong> · {next.where}</p>
         <p className="popup-blurb">{next.bring}</p>

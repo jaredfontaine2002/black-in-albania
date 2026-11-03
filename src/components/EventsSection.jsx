@@ -12,9 +12,9 @@ export default function EventsSection() {
             <span>{e.timeLabel}</span>
           </div>
           <div className="event-body">
+            {e.image && <img className="event-img" src={e.image} alt={e.imageAlt || ''} loading="lazy" />}
             <h3>{e.title}</h3>
             <p className="event-where">📍 {e.where}</p>
-            <p className="event-host">{e.host}</p>
             <p className="event-blurb">{e.blurb}</p>
             <p className="event-bring">🍽️ {e.bring}</p>
             <p className="event-rsvp">✋🏾 {e.rsvp}</p>

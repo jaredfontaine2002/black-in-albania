@@ -1,5 +1,7 @@
 // Community events. Public cards carry NO personal phone numbers and NO home
 // addresses — addresses live in the WhatsApp group only.
+import { THANKSGIVING_IMG } from './eventImages'
+
 export const events = [
   {
     id: 'thanksgiving-potluck-2026',
@@ -9,9 +11,10 @@ export const events = [
     dateLabel: 'Thursday 26 Nov 2026',
     timeLabel: '3:30 PM',
     where: 'A member’s home, Vlora — address in the WhatsApp group',
-    host: 'Hosted by a community member who stepped up on 3 Nov',
+    image: THANKSGIVING_IMG,
+    imageAlt: 'A Black family sharing a Thanksgiving dinner — turkey, mac & cheese, greens and cornbread around one table',
     blurb:
-      'Our only family here is each other — so nobody sits out the holiday alone. It started as Michelle Linzy’s idea and No Bissiness has been championing it: a proper potluck, food from the ancestors or whatever you love, around one table.',
+      'We are our only family here — so nobody sits out the holiday alone. A proper community potluck: food from the ancestors, or whatever you love to make, around one table.',
     bring: 'Bring your favourite dish to share. The dish list is being built in the group so we don’t end up with nine mac & cheeses (unless…?).',
     rsvp: 'Headcount is running NOW in the main WhatsApp group — add your name + your dish there so the host can plan chairs and table space.',
   },
