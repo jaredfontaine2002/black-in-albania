@@ -4,7 +4,6 @@ import FaqItem from './components/FaqItem'
 import Guides from './components/Guides'
 import GamesSection from './components/GamesSection'
 import EventsSection from './components/EventsSection'
-import EventPopup from './components/EventPopup'
 import { loadListings } from './lib/listingsSource'
 import { faqs } from './data/faqs'
 import { GET_LISTED_FORM_URL, COMMUNITY_NAME } from './config'
@@ -61,7 +60,6 @@ export default function App() {
 
   return (
     <div className="page">
-      <EventPopup />
       <header className="hero">
         <div className="hero-frame">
           <p className="kicker">{COMMUNITY_NAME} presents</p>

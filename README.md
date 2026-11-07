@@ -28,7 +28,7 @@ The community's WhatsApp groups held **478 questions** in eight months — the s
 - 🏠 **Chapter 02 · Housing Guide** — the lease trap and the electricity scam, from real member stories
 - 💇🏾 **Chapter 03 · Hair Guide** — braiders, barbers, and the hair-product problem, solved
 - 🛍️ **Temu Guide** — why the checkout price is the whole price (no customs, no pickup fee), tracking, the customs-fee scam warning, and collecting the parcel at Posta Shqiptare
-- 🎉 **Events Section + On-Open Popup** — community events (Thanksgiving Potluck, Thu 26 Nov 2026); a welcome popup announces the next event once per visit, addresses stay in the WhatsApp group
+- 🎉 **Events Section** — community events (Thanksgiving Potluck, Thu 26 Nov 2026) with an AI-illustrated card; addresses stay in the WhatsApp group
 - 🏀 **Flamurtari Fixtures** — Vlora's women's basketball team: all 20 regular-season games, home games marked, next home game up top
 - ❓ **Know Before You Go** — the repeating questions, answered once
 

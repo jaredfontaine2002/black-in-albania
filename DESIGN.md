@@ -49,5 +49,5 @@ Audited with the ported design_and_audit_ux + direct_visual_content skills. The 
 - **Type:** two typefaces only — Fraunces (display; the Green Book identity, earns its webfont load) + Inter (body), Georgia/sans fallbacks. Floors: body 16px, supporting text 14px — nothing smaller ships. Scale in use: 14 / 16 / 17 / 19 / 20 / 26 / 30 / 38 / 52.
 - **Checked colour pairs (WCAG AA, computed):** ink on cream 15.4 · cream on green 12.3 · gold-soft on green 9.5 · muted on cream 5.4 · gold-text #7D621E on cream 5.3 (use for any gold TEXT on light backgrounds; --gold itself is fills/borders/on-dark only, 2.4 on cream as text = fail) · terra-text #A34E2C on cream 5.3 (price lines, kickers, spotlight badge fill) · white on WhatsApp green #157A3E 5.4.
 - **Focus:** 3px outline — green on light surfaces, gold-soft on dark (hero, green callouts). Covers links, buttons, inputs, selects, FAQ summaries.
-- **Tap targets:** chips/buttons ≥42px tall; popup close is a 42px hit box.
-- **Imagery:** real community photos first; AI images are labelled "AI-generated illustration" wherever they appear (event card + popup), never presented as evidence.
+- **Tap targets:** chips/buttons ≥42px tall.
+- **Imagery:** real community photos first; AI images are labelled "AI-generated illustration" wherever they appear (currently the event card), never presented as evidence.
