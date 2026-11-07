@@ -35,6 +35,7 @@ export default function EventPopup() {
         <button className="popup-x" onClick={close} aria-label="Close">✕</button>
         <p className="popup-kicker">🎉 Coming up in the community</p>
         {next.image && <img className="popup-img" src={next.image} alt={next.imageAlt || ''} />}
+        {next.image && <p className="img-note" style={{ marginTop: '.45rem', marginBottom: 0 }}>AI-generated illustration</p>}
         <h3>{next.emoji} {next.title}</h3>
         <p className="popup-when"><strong>{next.dateLabel}</strong> · {next.where}</p>
         <p className="popup-blurb">{next.bring}</p>

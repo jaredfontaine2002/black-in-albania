@@ -13,6 +13,7 @@ export default function EventsSection() {
           </div>
           <div className="event-body">
             {e.image && <img className="event-img" src={e.image} alt={e.imageAlt || ''} loading="lazy" />}
+            {e.image && <p className="img-note">AI-generated illustration — our real potluck photos land after the day. 📸</p>}
             <h3>{e.title}</h3>
             <p className="event-where">📍 {e.where}</p>
             <p className="event-blurb">{e.blurb}</p>
