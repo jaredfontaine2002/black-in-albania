@@ -15,7 +15,7 @@ export const events = [
     imageAlt: 'A Black family sharing a Thanksgiving dinner — turkey, mac & cheese, greens and cornbread around one table',
     blurb:
       'We are our only family here — so nobody sits out the holiday alone. A proper community potluck: food from the ancestors, or whatever you love to make, around one table.',
-    bring: 'Bring your favourite dish to share. The dish list is being built in the group so we don’t end up with nine mac & cheeses (unless…?).',
+    bring: 'Bring your favorite dish to share. The dish list is being built in the group so we don’t end up with nine mac & cheeses (unless…?).',
     rsvp: 'Headcount is running NOW in the main WhatsApp group — add your name + your dish there so the host can plan chairs and table space.',
   },
 ]
