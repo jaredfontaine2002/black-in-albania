@@ -43,6 +43,21 @@ export const listings = [
     blackOwned: true,
   },
   {
+    id: 'somanika-reynolds-jerhada-sanders',
+    name: 'Somanika Reynolds-Jerhada — Sanders International Albania',
+    category: 'Housing & Real Estate',
+    city: 'Tirana',
+    description:
+      "Head of Sales at Sanders International — the developers' partner for new-build homes on the Albanian Riviera and in Tirana, plus resale homes in the capital. 20+ years in real estate: residential sales, property management, Airbnb hosting, rental portfolios and investment consulting. Relocation specialist and financial professional, bilingual in English and Spanish — your first point of contact in English. sandersalbania.com · invest@sandersalbania.com · also reachable on +355 69 370 2079.",
+    priceRange: 'New developments · Resale · Relocation',
+    whatsapp: '355696077495',
+    url: 'https://sandersalbania.com',
+    vouchedBy: 'Jared (at her request)',
+    verified: 'Nov 2026',
+    spotlight: false,
+    approved: true,
+  },
+  {
     id: 'kiira-poux',
     name: 'Dr. Kiira Poux — Training & Mental Performance',
     category: 'Fitness & Wellness',
