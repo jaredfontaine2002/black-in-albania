@@ -7,11 +7,13 @@
   --ink: #22301f;
   --green: #17352a;
   --green-2: #1f4636;
+  --green-tint: #cfe3d2;
   --gold: #c19a3d;
   --gold-soft: #e8d9ae;
   --terra: #c96f4a;
   --terra-text: #a34e2c;
   --gold-text: #7d621e;
+  --gold-hero: #6e5518;
   --muted: #6d6a5c;
   --border: #ddd2b8;
   --wa: #157a3e;
@@ -32,8 +34,8 @@ body {
 
 /* ——— The cover ——— */
 .hero {
-  background: var(--green);
-  color: var(--paper);
+  background: var(--green-tint);
+  color: var(--ink);
   text-align: center;
   border-radius: 6px;
   padding: 14px;
@@ -46,7 +48,7 @@ body {
   border-radius: 4px;
   padding: 34px 18px 30px;
 }
-.kicker { color: var(--gold-soft); letter-spacing: 3px; text-transform: uppercase; font-size: 14px; margin: 0; }
+.kicker { color: var(--gold-hero); letter-spacing: 3px; text-transform: uppercase; font-size: 14px; margin: 0; }
 .hero h1 {
   font-family: 'Fraunces', Georgia, serif;
   font-weight: 900;
@@ -57,14 +59,14 @@ body {
 .sub {
   font-family: 'Fraunces', Georgia, serif;
   font-style: italic;
-  color: var(--gold);
+  color: var(--gold-hero);
   font-size: 22px;
   margin: 6px 0 4px;
 }
 .edition {
   display: inline-block;
   border: 1px solid var(--gold);
-  color: var(--gold-soft);
+  color: var(--green);
   letter-spacing: 2px;
   font-size: 14px;
   padding: 4px 12px;
@@ -72,7 +74,7 @@ body {
   margin-top: 8px;
   text-transform: uppercase;
 }
-.lede { color: #e9e2cf; max-width: 620px; margin: 16px auto 0; line-height: 1.6; }
+.lede { color: #2e4436; max-width: 620px; margin: 16px auto 0; line-height: 1.6; }
 .lede-sm { color: var(--muted); line-height: 1.55; margin-top: 0; }
 .hero-actions { margin-top: 20px; }
 
@@ -232,7 +234,7 @@ footer .meta { margin-top: 8px; }
 button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible {
   outline: 3px solid var(--green); outline-offset: 2px;
 }
-.hero :focus-visible, .games-next :focus-visible, .event-date :focus-visible {
+.games-next :focus-visible, .event-date :focus-visible {
   outline-color: var(--gold-soft);
 }
 
