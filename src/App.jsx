@@ -85,6 +85,26 @@ export default function App() {
         </div>
       </header>
 
+      <section className="watch-banner" aria-label="Watch the Black Muse Meetup recording">
+        <div className="watch-copy">
+          <p className="watch-kicker">🎥 Fresh from the meetup · Fri 13 Nov 2026 · 56 min</p>
+          <h2>Black Muse Meetup — Learn the Basics of Muse</h2>
+          <p>
+            Missed it live? Watch Jared teach the basics of Muse — what it is,
+            live demos, building websites, finding work, and editing video —
+            and see the Black Wall Street incubator idea in action.
+          </p>
+        </div>
+        <a
+          className="btn btn-watch"
+          href="https://www.loom.com/share/81cfdb64a6e84136b5cc4b1e71124faa"
+          target="_blank"
+          rel="noreferrer"
+        >
+          ▶️ Watch Now
+        </a>
+      </section>
+
       <div className="trust" aria-label="About this guide">
         <div><strong>{listings.length}</strong><span>member-vouched listings</span></div>
         <div><strong>{Math.max(cities.length - 1, 0)}</strong><span>cities covered</span></div>
