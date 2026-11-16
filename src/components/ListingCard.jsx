@@ -9,6 +9,7 @@ const CATEGORY_ICONS = {
   'Kids & Family': '🧸',
   'Housing & Real Estate': '🏠',
   'Fitness & Wellness': '💪🏾',
+  'Arts & Media': '📚',
 }
 
 export default function ListingCard({ listing }) {
