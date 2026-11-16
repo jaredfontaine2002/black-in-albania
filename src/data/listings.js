@@ -267,7 +267,7 @@ export const listings = [
     id: 'kyle-edwin-jackson-author',
     name: 'Kyle Edwin Jackson — Author & Publisher',
     category: 'Arts & Media',
-    city: 'Albania',
+    city: 'Sarandë',
     description:
       'Author, screenwriter and journalist originally from New Orleans, living in Albania for several years. Founder and publisher of The Astonishing Tales digital magazine. Novels: BREATHING UNDERWATER and THE LOVE SPELL — both on his Amazon author page (amazon.com/author/kyleedwinjackson). Instagram @kyleedwinjacksonauthor · digital products on Gumroad (kylejackson63.gumroad.com).',
     priceRange: 'Novels on Amazon · Digital products on Gumroad',
