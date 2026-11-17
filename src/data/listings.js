@@ -91,6 +91,22 @@ export const listings = [
     blackOwned: true,
   },
   {
+    id: 'ani-anilechi-braids-cleaning',
+    name: 'Ani (Anilechi) — Braids & Cleaning',
+    category: 'Hair & Beauty',
+    city: 'Vlora',
+    description:
+      'Ani introduced herself in the main group on 17 Nov 2026: she braids hair and also does cleaning. Based in Vlorë and mobile — she can go to any location around Vlorë, and can also deliver to a nearby city. She shared photos of her braiding work in the group, including long braids and twists. Message her in the WhatsApp group to book.',
+    priceRange: 'Braids · Cleaning · Ask for a quote',
+    whatsapp: '',
+    url: '',
+    vouchedBy: 'Shared in group',
+    verified: 'Nov 2026',
+    spotlight: false,
+    approved: true,
+    blackOwned: true,
+  },
+  {
     id: 'braider-vlora-pending',
     name: 'Braider — Vlora (name to confirm)',
     category: 'Hair & Beauty',
