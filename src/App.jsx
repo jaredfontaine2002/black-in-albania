@@ -143,29 +143,45 @@ export default function App() {
           </p>
           <p>
             <a className="btn btn-gold" href="https://www.loom.com/share/5609dfee45f842fea26a98488698193f" target="_blank" rel="noreferrer">▶️ Watch the recording</a>{' '}
-            <a className="btn btn-gold" href="https://docs.google.com/document/d/1ALhaaEThMZUJUfue3B7Bnp3y_rU0xpg0NPblWiHOCRE/edit?usp=meet_tnfm_email" target="_blank" rel="noreferrer">📝 Meeting notes &amp; transcript (Google Doc)</a>
+            <a className="btn btn-gold" href="https://docs.google.com/document/d/1ALhaaEThMZUJUfue3B7Bnp3y_rU0xpg0NPblWiHOCRE/edit?usp=meet_tnfm_email" target="_blank" rel="noreferrer">📝 Gemini meeting notes (Google Doc)</a>
           </p>
           <p className="lede-sm">
-            The full transcript is in the Google Doc above and on the recording
-            page. The summary below is from the meeting recap and Gemini notes —
-            auto-generated, so names and spellings may contain errors.
+            Below is what was said, from the Gemini meeting notes Jared
+            forwarded on Nov 20, 2026 — the full detailed notes, topic by topic.
+            Gemini notes are auto-generated and may contain errors in names
+            and spellings. The recording above is the source of truth.
           </p>
 
-          <h3 className="guide-h">What Dr. Poux covered</h3>
-          <ul className="guide-list">
-            <li><strong>Overcoming gym anxiety (0:00)</strong> — Experienced gym-goers are usually willing to help, not judge. Start simple: treadmill walking, the stair machine, watching how equipment works, then gradually try weights and classes. There is no single ideal activity — pick something accessible and enjoyable and build momentum with small experiments.</li>
-            <li><strong>Foundations of health (2:15)</strong> — Move your body, watch energy in and out, and pay attention to what you consume. Sunshine and vitamin D support mood and metabolism. Track one change at a time — weigh consistently, drop one drink, change a meal habit, walk a different route — and keep what is sustainable.</li>
-            <li><strong>Individualized nutrition (4:02)</strong> — Hormones, stress, trauma and access to information all affect progress. Get blood work and baselines for cholesterol, blood pressure and prediabetes — local pharmacies offer metabolic and hormonal panels for roughly $40. Adapt food to the person: fatty fish and olive oil for cholesterol concerns, watch sodium for blood pressure. Moderation beats fad diets — keto is not best for everyone. Protein and vegetables earlier in the day help you stay full.</li>
-            <li><strong>Movement you enjoy, with people (9:22)</strong> — Walking groups, yoga, Zumba, Qigong, Tai Chi, fighting sports — combining social connection with movement makes it feel good, not like a burden. Dr. Poux offers virtual coaching and can be reached through WhatsApp, email, Instagram, or the coaching channels shared in the group.</li>
-            <li><strong>Local gyms in Sarandë</strong> — Bugam Hotel: free weights and cardio, €4 per day. Silhouette: extensive machines, weekly and monthly packages. More gyms across Albania to be researched and reported back to the group.</li>
-            <li><strong>What is next (12:32)</strong> — Weekly Black Wall Street meetings continue, with rotating business owners and educational presenters. Dr. Poux also offers executive consulting alongside fitness coaching.</li>
-          </ul>
+          <h3 className="guide-h">Professional Background and Athletic Experience of Kiira Poux</h3>
+          <p>Kiira Poux introduced themselves as a clinical psychologist based in Atlanta and currently living in the Saranda area, specializing in forensic work, addiction, and sport and exercise psychology. Kiira Poux noted that their master&apos;s degree was in sport and exercise psychology, which forms the basis of their published research and academic work. Additionally, Kiira Poux shared that they have been a professional bodybuilder competing for 11 to 12 years and holding pro status for about four years, while also bringing extensive experience in athletic marketing, mental skills training, coaching, and personal training.</p>
 
-          <h3 className="guide-h">Action items</h3>
+          <h3 className="guide-h">Travel Adaptability and Dietary Preparation During Competitions</h3>
+          <p>Kiira Poux discussed the necessity of adaptability when traveling worldwide for professional bodybuilding competitions across approximately 20 divisions. Highlighting extreme conditions, Kiira Poux described staying in a surf hostel outside of Lisbon during peak week while consuming only 500 to 800 calories of egg whites, cucumbers, and rice cakes daily, performing daily cardio, and working a virtually full-time job for a health organization. Kiira Poux emphasized that achieving fitness goals relies heavily on establishing authentic goals and determining the front-end sacrifices individuals are willing to make.</p>
+
+          <h3 className="guide-h">Nutritional Landscape and Food Accessibility in Albania</h3>
+          <p>Kiira Poux addressed dietary navigation in Albania and the surrounding Saranda area, noting that being vegetarian presents specific challenges due to limited food variety. Kiira Poux explained that they supplemented their diet by bringing protein powders and utilizing efficient travel stocking methods across multiple trips. While restaurant menus offer pescatarian-friendly options and vegetables, fruit availability leans heavily toward higher glycemic index and higher sugar content. Kiira Poux stressed the importance of puzzle piecing individual activity levels, food aversions, and specific preferences like seasonings into a sustainable meal plan.</p>
+
+          <h3 className="guide-h">Physiological Impact of Sleep, Cortisol, and Internal Health Metrics</h3>
+          <p>Kiira Poux highlighted the critical role of physiological factors such as sleep and cortisol in managing traditional aesthetic fitness and internal performance. Poor sleep, high-sugar diets, and elevated cortisol contribute heavily to water weight retention and fat distribution, regardless of activity levels. Kiira Poux noted that internal markers such as cholesterol, heart health, and differing physical abilities must be monitored alongside external appearance, while recommending daily activities like walking to explore Saranda and maintain cardio routines.</p>
+
+          <h3 className="guide-h">Individualized Nutritional Strategies and Habit Modification</h3>
+          <p>Kiira Poux explained that no two bodies are alike and cautioned against one-size-fits-all fitness formulas, noting that factors like medications, hormones, and sleep alter basic energy expenditure. Kiira Poux uses eggs, legumes, and nuts as foundational protein sources while accounting for individual fat responsiveness and dietary triggers. To break ingrained human brain patterns, Kiira Poux suggested gaming habits through structured daily routines, such as walking longer routes or organizing meal prep before engaging in other tasks.</p>
+
+          <h3 className="guide-h">Local Gym Options and Navigating Environment Barriers</h3>
+          <p>Kiira Poux reviewed local fitness spaces in Saranda, identifying Silhouette for machinery, Bugam Hotel as a long-standing option with free weights and cardio machines priced at 4 euros per day, and noting plans to visit Petra. Drawing on past experience screening clients for bariatric surgery, Kiira Poux acknowledged that entering unfamiliar or male-dominated gyms can trigger mental barriers. To overcome gym intimidation, Kiira Poux recommended starting small by utilizing available cardio equipment and leveraging community networks, noting that experienced gymgoers are generally supportive rather than judgmental.</p>
+
+          <h3 className="guide-h">Tailored Health Guidance for Diverse Demographics and Risk Factors</h3>
+          <p>Responding to Jared Fontaine regarding specific health issues like hypertension, cholesterol, and diabetes prevalent in communities of color, Kiira Poux emphasized focusing on hormonal health, stress, and trauma markers. Kiira Poux recommended obtaining local blood work panels, noting they cost approximately $40 in the area, to check cholesterol, blood pressure, and pre-diabetic indicators. Kiira Poux advised against fad diets like keto, advocating instead for moderation, prioritizing protein for satiation, and combining movement with social activities to trick the brain. Kiira Poux shared contact details, including email at Dr. KMPU@gmail.com and an Instagram handle to be shared via WhatsApp.</p>
+
+          <h3 className="guide-h">Group Mission and Future Weekly Educational Sessions</h3>
+          <p>Jared Fontaine outlined the group&apos;s objective to rebuild Black Wall Street by hosting weekly educational speakers, noting that the previous week featured a session with Muse, while the current session featured Kiira Poux discussing health management. Jared Fontaine mentioned technical difficulties with the recording but confirmed that available footage and transcripts would be uploaded to the group website. Kiira Poux added a note about offering executive consulting for non-physical fitness applications for those interested in that niche.</p>
+
+          <h3 className="guide-h">Next steps</h3>
           <ul className="guide-list">
-            <li>Dr. Poux: Put her Instagram contact information in the WhatsApp group.</li>
-            <li>Dr. Poux: Research gyms throughout Albania and report back to the group.</li>
-            <li>Jared: Upload the recorded meeting to the website — done, on this page.</li>
+            <li>Kiira Poux: Research gyms throughout Albania to provide comprehensive feedback to the group.</li>
+            <li>Jared Fontaine: Publish meeting materials — upload the meeting recording and transcript to the website. Done, on this page.</li>
+            <li>Kiira Poux: Obtain a blood panel to monitor metabolic and hormonal levels.</li>
+            <li>Kiira Poux: Put her Instagram contact information in the WhatsApp group.</li>
           </ul>
         </section>
 
