@@ -85,6 +85,26 @@ export default function App() {
         </div>
       </header>
 
+      <section className="watch-banner" aria-label="Watch the Healthy Lifestyle Meetup with Dr. Kiira Poux recording">
+        <div className="watch-copy">
+          <p className="watch-kicker">🎥 Fresh from the meetup · Fri 20 Nov 2026 · 16 min</p>
+          <h2>Healthy Lifestyle Meetup with Dr. Kiira Poux</h2>
+          <p>
+            Missed it live? Watch Dr. Poux on overcoming gym anxiety, choosing
+            movement you actually enjoy, and building sustainable health habits
+            here in Albania — plus local gyms and affordable blood work.
+          </p>
+        </div>
+        <a
+          className="btn btn-watch"
+          href="https://www.loom.com/share/5609dfee45f842fea26a98488698193f"
+          target="_blank"
+          rel="noreferrer"
+        >
+          ▶️ Watch Now
+        </a>
+      </section>
+
       <section className="watch-banner" aria-label="Watch the Black Muse Meetup recording">
         <div className="watch-copy">
           <p className="watch-kicker">🎥 Fresh from the meetup · Fri 13 Nov 2026 · 56 min</p>
@@ -113,6 +133,42 @@ export default function App() {
       </div>
 
       <main>
+        <section className="panel" id="poux-recap">
+          <h2>📋 Meetup Recap — Healthy Lifestyle with Dr. Kiira Poux</h2>
+          <p className="lede-sm">
+            Fri Nov 20, 2026 · 7:30 PM · Google Meet · 16 min recording.
+            Dr. Kiira Poux is a clinician (MA, MSE, PsyD) and IFBB Pro Figure
+            bodybuilder based in Sarandë, offering personal training and mental
+            performance coaching.
+          </p>
+          <p>
+            <a className="btn btn-gold" href="https://www.loom.com/share/5609dfee45f842fea26a98488698193f" target="_blank" rel="noreferrer">▶️ Watch the recording</a>{' '}
+            <a className="btn btn-gold" href="https://docs.google.com/document/d/1ALhaaEThMZUJUfue3B7Bnp3y_rU0xpg0NPblWiHOCRE/edit?usp=meet_tnfm_email" target="_blank" rel="noreferrer">📝 Meeting notes &amp; transcript (Google Doc)</a>
+          </p>
+          <p className="lede-sm">
+            The full transcript is in the Google Doc above and on the recording
+            page. The summary below is from the meeting recap and Gemini notes —
+            auto-generated, so names and spellings may contain errors.
+          </p>
+
+          <h3 className="guide-h">What Dr. Poux covered</h3>
+          <ul className="guide-list">
+            <li><strong>Overcoming gym anxiety (0:00)</strong> — Experienced gym-goers are usually willing to help, not judge. Start simple: treadmill walking, the stair machine, watching how equipment works, then gradually try weights and classes. There is no single ideal activity — pick something accessible and enjoyable and build momentum with small experiments.</li>
+            <li><strong>Foundations of health (2:15)</strong> — Move your body, watch energy in and out, and pay attention to what you consume. Sunshine and vitamin D support mood and metabolism. Track one change at a time — weigh consistently, drop one drink, change a meal habit, walk a different route — and keep what is sustainable.</li>
+            <li><strong>Individualized nutrition (4:02)</strong> — Hormones, stress, trauma and access to information all affect progress. Get blood work and baselines for cholesterol, blood pressure and prediabetes — local pharmacies offer metabolic and hormonal panels for roughly $40. Adapt food to the person: fatty fish and olive oil for cholesterol concerns, watch sodium for blood pressure. Moderation beats fad diets — keto is not best for everyone. Protein and vegetables earlier in the day help you stay full.</li>
+            <li><strong>Movement you enjoy, with people (9:22)</strong> — Walking groups, yoga, Zumba, Qigong, Tai Chi, fighting sports — combining social connection with movement makes it feel good, not like a burden. Dr. Poux offers virtual coaching and can be reached through WhatsApp, email, Instagram, or the coaching channels shared in the group.</li>
+            <li><strong>Local gyms in Sarandë</strong> — Bugam Hotel: free weights and cardio, €4 per day. Silhouette: extensive machines, weekly and monthly packages. More gyms across Albania to be researched and reported back to the group.</li>
+            <li><strong>What is next (12:32)</strong> — Weekly Black Wall Street meetings continue, with rotating business owners and educational presenters. Dr. Poux also offers executive consulting alongside fitness coaching.</li>
+          </ul>
+
+          <h3 className="guide-h">Action items</h3>
+          <ul className="guide-list">
+            <li>Dr. Poux: Put her Instagram contact information in the WhatsApp group.</li>
+            <li>Dr. Poux: Research gyms throughout Albania and report back to the group.</li>
+            <li>Jared: Upload the recorded meeting to the website — done, on this page.</li>
+          </ul>
+        </section>
+
         <section className="panel">
           <div className="controls">
             <input
